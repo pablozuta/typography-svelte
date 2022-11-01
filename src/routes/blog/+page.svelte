@@ -31,42 +31,29 @@
         letter-spacing: 0.3rem; 
     }
     h3{
-        font-family: 'Arapey', serif;
+      
         margin-inline: 3%;
         font-size: 2rem;
         letter-spacing: 0.3rem;
     }
 
     .dos-parrafos {
-    font-family: 'Playfair Display', serif;
+  
     text-align: left;
     text-justify: auto;
     padding-inline: 2%;
-    color: black;
-    font-size: 1rem;
+  
     display: grid;
     grid-gap: 35px;
-    margin-inline: 3%;
-    grid-template-columns: repeat(auto-fit, minmax(19rem, 0.5fr));
+  
+    grid-template-columns: repeat(auto-fit, minmax(25rem, 0.5fr));
   }
   
   .dos-parrafos-texto {
-    font-size: 1.2rem;
-    line-height: 120%;
     padding-inline: 3%;
-    font-weight: 500;
-    width: auto;
+   width: auto;
   }
 
-  .link-button{
-    text-decoration: none;
-    background-color: black;
-    color: white;
-    padding: 1rem;
-    padding-inline: 3rem;
-    border-radius: 5%;         
-}
-a:hover{
-        color: coral;
-    }
+
+
   </style>

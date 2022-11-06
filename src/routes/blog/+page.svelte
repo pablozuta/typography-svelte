@@ -1,4 +1,4 @@
- <center><h1>Blog</h1></center>
+ <center><h1>BLOG</h1></center>
 <div class="dos-parrafos">
     <div>
       <h3>What is SvelteKit?</h3>
@@ -28,11 +28,11 @@
   <style>
 
     h1{
-        letter-spacing: 0.3rem; 
+        letter-spacing: 1rem; 
     }
     h3{
       
-        margin-inline: 3%;
+    
         font-size: 2rem;
         letter-spacing: 0.3rem;
     }
@@ -41,7 +41,7 @@
   
     text-align: left;
     text-justify: auto;
-    padding-inline: 2%;
+  
   
     display: grid;
     grid-gap: 35px;
@@ -50,7 +50,7 @@
   }
   
   .dos-parrafos-texto {
-    padding-inline: 3%;
+ 
    width: auto;
   }
 

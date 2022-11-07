@@ -1,25 +1,84 @@
-<h1>Svelte 3: Rethinking reactivity</h1>
-<p>It's finally here</p>
+<h1>Introduction To Typography</h1>
+
 <hr>
-<br>
-<p>After several months of being just days away, we are over the moon to announce the stable release of Svelte 3. This is a huge release representing hundreds of hours of work by many people in the Svelte community, including invaluable feedback from beta testers who have helped shape the design every step of the way.</p>
-<p>We think you're going to love it.</p>
-<h3>What is Svelte?</h3>
-<p>Svelte is a component framework — like React or Vue — but with an important difference. Traditional frameworks allow you to write declarative state-driven code, but there's a penalty: the browser must do extra work to convert those declarative structures into DOM operations, using techniques like <a href="https://svelte.dev/blog/virtual-dom-is-pure-overhead">virtual DOM diffing</a>   that eat into your frame budget and tax the garbage collector.</p>
+<h3>What is Type?</h3>
+<p>Well let's start by sorting out two terms that get confused a lot, font and typeface.
+	This might seem like a nit picky distinction, but it's a distinction that actually reflects the dual nature of type.
 
-<p>Instead, Svelte runs at build time, converting your components into <strong>highly efficient</strong>  imperative code that surgically updates the DOM. As a result, you're able to write ambitious applications with excellent performance characteristics.</p>
-<p>The first version of Svelte was all about <a href="https://svelte.dev/blog/frameworks-without-the-framework">testing a hypothesis</a>  — that a purpose-built compiler could generate rock-solid code that delivered a great user experience. The second was a small upgrade that tidied things up a bit.</p>
-<p>Version 3 is a significant overhaul. Our focus for the last five or six months has been on <em>delivering an outstanding developer experience.</em>  It's now possible to write components with significantly less boilerplate than you'll find elsewhere. Try the brand new tutorial and see what we mean — if you're familiar with other frameworks we think you'll be pleasantly surprised.</p>
-<br>
-<center><a class="link-button" href="/blog">Blog</a></center>
-<br>
-<br>
+	On the one hand, type is a tangible thing, a movable kit of pre-designed forms that can be shuffled around to make
+	words. And on the other hand, it's something less tangible, a work of design that can be represented and
+	re-represented at many sizes and in many formats.</p>
+<p>A font originally referred to one set of metal type.In a California job case, a standard filing system for metal type
+	that has the letters and other typographic elements arranged according to frequency of use, not unlike the way that
+	the keys are arranged on a computer keyboard. Metal type obviously can't be made bigger or smaller or italic or
+	bold. So a font of metal type is just one type design in one style, in one weight at one size.
 
+	Movable type like this was first invented in China around 1040 by an inventor named Bi Sheng. It was reinvented 400
+	years later in Germany in the 15th century by Johannes Gutenberg. Gutenberg carved his letter forms at actual scale
+	and then cast them in a mixture of metals, mostly lead.</p>
+<p>The process of letterpress printing remained the main technology for setting and reproducing type from its invention
+	in the 1450's up into the 1960's. And even today, a lot of the vocabulary we use to talk about type references
+	letterpress technology. In the 1960s and 70s, metal typesetting was replaced by photo typesetting. A photo type
+	font,was essentially a slide or film reel of letter forms that was projected in sequence onto photo paper.
+
+	Today, a font of type is a .otf or .ttf file stored on your computer. These files contain vector information
+	describing the shapes of the letter forms, and also information about the space between different combinations of
+	letters.
+	So a font is the physical manifestation of type, whether in metal, film or code.</p>
+
+<p>In contrast to a font, typeface describes the visual design of a particular set of letter forms.
+	Typefaces are massive design projects. To create a fully functioning contemporary typeface, a designer must create
+	hundreds and thousands of carefully considered individual drawings.</p>
+<p>At minimum, typefaces these days include uppercase letters, lowercase letters, numbers called figures, often in
+	several different styles,fractions and mathematical symbols, punctuation and special characters, accented characters
+	in both upper and lower case.
+	And ligatures, specially drawn combinations of two or more letters.
+	All of these characters must be individually drawn in both regular and italic styles. And both of these styles must
+	be drawn in at least three weights. Different degrees of boldness. So type faces are time consuming and skill
+	demanding works of design.
+	And like other works of design, they're protected as intellectual property. In order to use a type face in the piece
+	of design work, you need to have a license to do so.
+	The typefaces that come with our operating system or other software have been licensed for us by the software
+	company. But most other high quality typefaces must be purchased and downloaded from their designer or distributor
+	in order to be used legally.</p>
+
+<h3>Stroke and Proportion</h3>
+<p>What really define the character , the look and feel of a typeface on actually use is not it's details but some
+	overall qualities of stroke & proportion , and these qualities are what typographers pays most attention to when
+	they're are looking at types.
+	The forms of the typographic alphabet emerged from scribes' handwriting in the 15th century. So the lines that form
+	letters are called strokes and are based on calligraphic marks.</p>
+<p>Weight is the thickness of a stroke, and this varies between typefaces and also within type families.
+	Stroke weight contributes to the type's color, how dark or light it appears when set in text.
+	Stroke modulation is how much the thickness of the stroke changes in different parts of the letter.</p>
+<p>In traditional calligraphy, the brusher pen is held at a constant angle as the letters are drawn, creating a stroke
+	with a lot of modulation.
+	The modulation of a stroke implies a tilt or axis to the letterform. In more calligraphic typefaces, this axis is
+	usually angled and in more mechanical typefaces it tends to be vertical.</p>
+<p>In humanistic typefaces, strokes often end with a little wedge-shaped form called a seraph The presence or absence of
+	serifs divide all typefaces into the categories of serif and sans serif. Sans from the French, meaning without. And
+	these two styles have quite different textures on the page.
+	Some designers argue that serifs make type easier to read by creating an imaginary line that the type sits on, and
+	that guides our eyes along each line of text. And for this reason, serif type faces are conventionally seen as more
+	appropriate for long bodies of text.</p>
+<p>Besides qualities of stroke, the overall appearance of a typeface is also determined by its proportions.
+	Some typefaces have narrow and tall condensed letter forms, while others have squat and wide extended forms.
+	That small scale condensed type on the left looks blocky and dense, extended type looks kind of airy.</p>
+<p>Another important proportion is what might roughly be described as the size relationship between lowercase and
+	uppercase letters. And this is called the x-height of the typeface. The x-height is the imaginary line that defines
+	the height of many of the lowercase letters.
+	Typefaces with a large x-height with a proportionally larger lowercase letters, like this typeface, look bigger and
+	more even on the page. Typefaces with a small x-height with proportionally smaller lowercase letters look smaller
+	and more delicate.</p>
+<p>Taken all together, these over all qualities of proportion and of stroke are what really give a typeface it's
+	particular appearance at type size.</p>
+
+
+
+
+<!--aca comienzan los estilos de la pagina-->
 <style>
 	hr {
 		border: 1px solid black;
 	}
-  
-
-   
 </style>

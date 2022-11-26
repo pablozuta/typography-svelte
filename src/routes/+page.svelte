@@ -3,19 +3,23 @@
 <hr>
 <h3>What is Type?</h3>
 <p>Well let's start by sorting out two terms that get confused a lot, font and typeface.
-	This might seem like a nit picky distinction, but it's a distinction that actually reflects the dual nature of type.
+This might seem like a nit picky distinction, but it's a distinction that actually reflects the dual nature of type.</p>
+<p>On the one hand, type is a tangible thing, a movable kit of pre-designed forms that can be shuffled around to make words. And on the other hand, it's something less tangible, a work of design that can be represented and re-represented at many sizes and in many formats.</p>
 
-	On the one hand, type is a tangible thing, a movable kit of pre-designed forms that can be shuffled around to make
-	words. And on the other hand, it's something less tangible, a work of design that can be represented and
-	re-represented at many sizes and in many formats.</p>
-<p>A font originally referred to one set of metal type.In a California job case, a standard filing system for metal type
-	that has the letters and other typographic elements arranged according to frequency of use, not unlike the way that
-	the keys are arranged on a computer keyboard. Metal type obviously can't be made bigger or smaller or italic or
+<img src="https://res.cloudinary.com/ddkgbgwvp/image/upload/c_scale,h_593,w_745/v1668576809/Typography%20Svelte/Screenshot_20221112-121315_Coursera_r9hnyq.jpg"
+	alt="california job case">
+<p>A font originally referred to one set of metal type.In a California job case, a standard filing system for metal
+	typet hat has the letters and other typographic elements arranged according to frequency of use, not unlike the way
+	that the keys are arranged on a computer keyboard. Metal type obviously can't be made bigger or smaller or italic or
 	bold. So a font of metal type is just one type design in one style, in one weight at one size.
-
 	Movable type like this was first invented in China around 1040 by an inventor named Bi Sheng. It was reinvented 400
 	years later in Germany in the 15th century by Johannes Gutenberg. Gutenberg carved his letter forms at actual scale
 	and then cast them in a mixture of metals, mostly lead.</p>
+<img src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668576808/Typography%20Svelte/Screenshot_20221112-121324_Coursera_v3t991.jpg"
+	alt="bi sheng">
+
+<img src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668576810/Typography%20Svelte/Screenshot_20221112-121329_Coursera_ymms1c.jpg"
+	alt="johannes gutenberg">
 <p>The process of letterpress printing remained the main technology for setting and reproducing type from its invention
 	in the 1450's up into the 1960's. And even today, a lot of the vocabulary we use to talk about type references
 	letterpress technology. In the 1960s and 70s, metal typesetting was replaced by photo typesetting. A photo type
@@ -26,6 +30,9 @@
 	letters.
 	So a font is the physical manifestation of type, whether in metal, film or code.</p>
 
+<img src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668576809/Typography%20Svelte/Screenshot_20221112-121349_Coursera_lasxay.jpg"
+	alt="">
+<img src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668577796/Typography%20Svelte/Screenshot_20221112-122125_Coursera_bauzfi.jpg" alt="photo typesetting">
 <p>In contrast to a font, typeface describes the visual design of a particular set of letter forms.
 	Typefaces are massive design projects. To create a fully functioning contemporary typeface, a designer must create
 	hundreds and thousands of carefully considered individual drawings.</p>
@@ -48,9 +55,12 @@
 	they're are looking at types.
 	The forms of the typographic alphabet emerged from scribes' handwriting in the 15th century. So the lines that form
 	letters are called strokes and are based on calligraphic marks.</p>
+	<img src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668577795/Typography%20Svelte/Screenshot_20221112-122402_Coursera_tstr5j.jpg" alt="">
 <p>Weight is the thickness of a stroke, and this varies between typefaces and also within type families.
 	Stroke weight contributes to the type's color, how dark or light it appears when set in text.
 	Stroke modulation is how much the thickness of the stroke changes in different parts of the letter.</p>
+	<img src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668578311/Typography%20Svelte/Screenshot_20221112-122501_Coursera_d1jpk9.jpg" alt="">
+	
 <p>In traditional calligraphy, the brusher pen is held at a constant angle as the letters are drawn, creating a stroke
 	with a lot of modulation.
 	The modulation of a stroke implies a tilt or axis to the letterform. In more calligraphic typefaces, this axis is

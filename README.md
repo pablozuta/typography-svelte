@@ -1,38 +1,8 @@
-# create-svelte
+Typography is an essential element of modern web design. Good typography helps to create a visually appealing and easy-to-read website.
+This is especially important for websites that have a lot of text, such as news websites or online publications. 
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+Another important aspect of typography in web design is that it helps to create a consistent and cohesive visual aesthetic. By carefully selecting fonts and using them consistently throughout a website, designers can create a cohesive design that reinforces the brand and helps to create a more professional and polished look. This can help to improve the overall user experience, as well as making the website more appealing to potential customers or clients.
 
-## Creating a project
+Finally, typography can also be used to create visual hierarchy and emphasis on a website. By using different font sizes, styles, and weights, designers can draw attention to important elements of a website and make it easier for users to navigate. This can help to guide users through the website and ensure that they can find the information they are looking for quickly and easily.
 
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+This Project uses material from the course "Introduction to Typography" from California Institute of Arts to create a webpage.

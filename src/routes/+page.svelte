@@ -34,6 +34,7 @@
 	 </div>
 		
 </div><!--fin grid-->
+
 <div class="grid-2">
        
 	<div class="card">
@@ -58,14 +59,19 @@
 	So a font is the physical manifestation of type, whether in metal, film or code.
 </p>
 
-<img
-	src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668576809/Typography%20Svelte/Screenshot_20221112-121349_Coursera_lasxay.jpg"
-	alt=""
-/>
-<img
-	src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668577796/Typography%20Svelte/Screenshot_20221112-122125_Coursera_bauzfi.jpg"
-	alt="photo typesetting"
-/>
+<div class="grid-2">
+       
+	<div class="card">
+	 <img src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668576809/Typography%20Svelte/Screenshot_20221112-121349_Coursera_lasxay.jpg" class="artist__img" alt="gutenberg">
+	 </div>
+		   
+			
+	<div class="card">
+	 <img src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668577796/Typography%20Svelte/Screenshot_20221112-122125_Coursera_bauzfi.jpg" class="artist__img" alt="bi sheng" >
+	  </div>
+
+</div><!--fin grid-->
+
 <p>
 	In contrast to a font, typeface describes the visual design of a particular set of letter forms.
 	Typefaces are massive design projects. To create a fully functioning contemporary typeface, a
@@ -93,20 +99,27 @@
 	typographic alphabet emerged from scribes' handwriting in the 15th century. So the lines that form
 	letters are called strokes and are based on calligraphic marks.
 </p>
-<img
-	src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668577795/Typography%20Svelte/Screenshot_20221112-122402_Coursera_tstr5j.jpg"
-	alt=""
-/>
+<div class="grid-2">
+       
+	<div class="card">
+	 <img src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668577795/Typography%20Svelte/stroke-and-proportion.jpg" class="artist__img2" alt="gutenberg">
+	 </div>
+		   
+			
+	<div class="card">
+	 <img src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668578311/Typography%20Svelte/Screenshot_20221112-122501_Coursera_d1jpk9.jpg" class="artist__img2" alt="bi sheng" >
+	  </div>
+
+</div><!--fin grid-->
+
+
 <p>
 	Weight is the thickness of a stroke, and this varies between typefaces and also within type
 	families. Stroke weight contributes to the type's color, how dark or light it appears when set in
 	text. Stroke modulation is how much the thickness of the stroke changes in different parts of the
 	letter.
 </p>
-<img
-	src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668578311/Typography%20Svelte/Screenshot_20221112-122501_Coursera_d1jpk9.jpg"
-	alt=""
-/>
+
 
 <p>
 	In traditional calligraphy, the brusher pen is held at a constant angle as the letters are drawn,
@@ -141,6 +154,9 @@
 	typeface it's particular appearance at type size.
 </p>
 
+
+
+
 <!--aca comienzan los estilos de la pagina-->
 <style>
 	hr {
@@ -158,6 +174,12 @@
 	.artist__img{
 		width: 100%;
 		aspect-ratio: 1/1;
+		object-fit: cover;
+	}
+	
+	.artist__img2{
+		width: 100%;
+		aspect-ratio: 1.7/1;
 		object-fit: cover;
 	}
 	.big-image{

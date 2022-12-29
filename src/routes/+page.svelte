@@ -27,13 +27,7 @@
 	cast them in a mixture of metals, mostly lead.
 </p>
 
-<div class="grid-2">
-       
-	<div class="card">
-	 <img src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668576809/Typography%20Svelte/california-box.jpg" class="big-image" alt="california box">
-	 </div>
-		
-</div><!--fin grid-->
+
 
 <div class="grid-2">
        
@@ -41,10 +35,12 @@
 	 <img src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668576810/Typography%20Svelte/gutenberg.jpg" class="artist__img" alt="gutenberg">
 	 </div>
 		   
-			
 	<div class="card">
-	 <img src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668576808/Typography%20Svelte/bi-sheng.jpg" class="artist__img" alt="bi sheng" >
-	  </div>
+	 <img src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668576809/Typography%20Svelte/california-box.jpg" class="artist__img" alt="california case">
+	 </div>
+		   
+			
+	
 
 </div><!--fin grid-->
 
@@ -153,6 +149,8 @@
 	Taken all together, these over all qualities of proportion and of stroke are what really give a
 	typeface it's particular appearance at type size.
 </p>
+<button class="boton-link"><a href="/type-anatomy">NEXT PAGE</a></button>
+
 
 
 
@@ -191,4 +189,6 @@
 			aspect-ratio: 1/0.8;
 		}
 	}
+
+	
 </style>

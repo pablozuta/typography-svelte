@@ -1,11 +1,14 @@
-<h1>Introduction To Typography</h1>
+<div class="title-box">
+	<h1>Introduction To <span class="span-title">Typography</span> </h1>
+</div>
 
 <hr />
-<h3>What is Type?</h3>
+<h3>🌅 What is Type?</h3>
 <p>
-	Well let's start by sorting out two terms that get confused a lot, font and typeface. This might
-	seem like a nit picky distinction, but it's a distinction that actually reflects the dual nature
-	of type.
+	Well let's start by sorting out two terms that get confused a lot, <strong>
+		font and typeface</strong
+	>. This might seem like a nit picky distinction, but it's a distinction that actually reflects the
+	dual nature of type.
 </p>
 <p>
 	On the one hand, type is a tangible thing, a movable kit of pre-designed forms that can be
@@ -13,36 +16,37 @@
 	design that can be represented and re-represented at many sizes and in many formats.
 </p>
 
-
-
-
 <p>
-	A font originally referred to one set of metal type.In a California job case, a standard filing
+	A font originally referred to one set of metal type. In a California job case, a standard filing
 	system for metal typet hat has the letters and other typographic elements arranged according to
 	frequency of use, not unlike the way that the keys are arranged on a computer keyboard. Metal type
 	obviously can't be made bigger or smaller or italic or bold. So a font of metal type is just one
-	type design in one style, in one weight at one size. Movable type like this was first invented in
-	China around 1040 by an inventor named Bi Sheng. It was reinvented 400 years later in Germany in
-	the 15th century by Johannes Gutenberg. Gutenberg carved his letter forms at actual scale and then
-	cast them in a mixture of metals, mostly lead.
+	type design in one style, in one weight at one size.
+</p>
+<p>
+	Movable type like this was first invented in China around 1040 by an inventor named Bi Sheng. It
+	was reinvented 400 years later in Germany in the 15th century by Johannes Gutenberg. Gutenberg
+	carved his letter forms at actual scale and then cast them in a mixture of metals, mostly lead.
 </p>
 
-
-
 <div class="grid-2">
-       
 	<div class="card">
-	 <img src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668576810/Typography%20Svelte/gutenberg.jpg" class="artist__img" alt="gutenberg">
-	 </div>
-		   
-	<div class="card">
-	 <img src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668576809/Typography%20Svelte/california-box.jpg" class="artist__img" alt="california case">
-	 </div>
-		   
-			
-	
+		<img
+			src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668576810/Typography%20Svelte/gutenberg.jpg"
+			class="artist__img"
+			alt="gutenberg"
+		/>
+	</div>
 
-</div><!--fin grid-->
+	<div class="card">
+		<img
+			src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668576809/Typography%20Svelte/california-box.jpg"
+			class="artist__img"
+			alt="california case"
+		/>
+	</div>
+</div>
+<!--fin grid-->
 
 <p>
 	The process of letterpress printing remained the main technology for setting and reproducing type
@@ -56,20 +60,26 @@
 </p>
 
 <div class="grid-2">
-       
 	<div class="card">
-	 <img src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668576809/Typography%20Svelte/Screenshot_20221112-121349_Coursera_lasxay.jpg" class="artist__img" alt="gutenberg">
-	 </div>
-		   
-			
-	<div class="card">
-	 <img src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668577796/Typography%20Svelte/Screenshot_20221112-122125_Coursera_bauzfi.jpg" class="artist__img" alt="bi sheng" >
-	  </div>
+		<img
+			src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668576809/Typography%20Svelte/Screenshot_20221112-121349_Coursera_lasxay.jpg"
+			class="artist__img"
+			alt="gutenberg"
+		/>
+	</div>
 
-</div><!--fin grid-->
+	<div class="card">
+		<img
+			src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668577796/Typography%20Svelte/Screenshot_20221112-122125_Coursera_bauzfi.jpg"
+			class="artist__img"
+			alt="bi sheng"
+		/>
+	</div>
+</div>
+<!--fin grid-->
 
 <p>
-	In contrast to a font, typeface describes the visual design of a particular set of letter forms.
+	In contrast to a font, typeface describes the <strong>visual design of a particular set of letter forms.</strong>
 	Typefaces are massive design projects. To create a fully functioning contemporary typeface, a
 	designer must create hundreds and thousands of carefully considered individual drawings.
 </p>
@@ -87,7 +97,7 @@
 	designer or distributor in order to be used legally.
 </p>
 
-<h3>Stroke and Proportion</h3>
+<h3 class="stroke-and-proportion">🌅 Stroke and Proportion </h3>
 <p>
 	What really define the character , the look and feel of a typeface on actually use is not it's
 	details but some overall qualities of stroke & proportion , and these qualities are what
@@ -96,18 +106,23 @@
 	letters are called strokes and are based on calligraphic marks.
 </p>
 <div class="grid-2">
-       
 	<div class="card">
-	 <img src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668577795/Typography%20Svelte/stroke-and-proportion.jpg" class="artist__img2" alt="gutenberg">
-	 </div>
-		   
-			
+		<img
+			src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668577795/Typography%20Svelte/stroke-and-proportion.jpg"
+			class="artist__img2"
+			alt="gutenberg"
+		/>
+	</div>
+
 	<div class="card">
-	 <img src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668578311/Typography%20Svelte/Screenshot_20221112-122501_Coursera_d1jpk9.jpg" class="artist__img2" alt="bi sheng" >
-	  </div>
-
-</div><!--fin grid-->
-
+		<img
+			src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668578311/Typography%20Svelte/Screenshot_20221112-122501_Coursera_d1jpk9.jpg"
+			class="artist__img2"
+			alt="bi sheng"
+		/>
+	</div>
+</div>
+<!--fin grid-->
 
 <p>
 	Weight is the thickness of a stroke, and this varies between typefaces and also within type
@@ -115,7 +130,6 @@
 	text. Stroke modulation is how much the thickness of the stroke changes in different parts of the
 	letter.
 </p>
-
 
 <p>
 	In traditional calligraphy, the brusher pen is held at a constant angle as the letters are drawn,
@@ -149,46 +163,44 @@
 	Taken all together, these over all qualities of proportion and of stroke are what really give a
 	typeface it's particular appearance at type size.
 </p>
-<button class="boton-link"><a href="/type-anatomy">NEXT PAGE</a></button>
-
-
-
-
+<button class="boton-link"><a href="/type-anatomy">Type Anatomy >></a></button>
 
 <!--aca comienzan los estilos de la pagina-->
 <style>
 	hr {
 		border: 1px solid black;
 	}
-
-	.grid-2{
-    margin-top: 0.1rem;
-	display: grid;
-	grid-template-columns:repeat(auto-fit, minmax(21rem, 1fr)) ;
-	padding: 2%;
-	gap: 3rem;
+	.title-box {
+		background-color: #3a7575;
+		padding: 2rem;
+		color: blanchedalmond;
+		margin-top: 1.3rem;
 	}
-	
-	.artist__img{
+	.span-title{
+		color:#E7B75F;
+	}
+	.stroke-and-proportion{
+		border-bottom: 2px solid #E7B75F ;
+	}
+
+	.grid-2 {
+		margin-top: 0.1rem;
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(21rem, 1fr));
+		padding: 2%;
+		gap: 3rem;
+	}
+
+	.artist__img {
 		width: 100%;
 		aspect-ratio: 1/1;
 		object-fit: cover;
 	}
-	
-	.artist__img2{
+
+	.artist__img2 {
 		width: 100%;
 		aspect-ratio: 1.7/1;
 		object-fit: cover;
 	}
-	.big-image{
-		width: 100%;
-		aspect-ratio: 1/0.5;
-		object-fit: cover;
-	}@media(max-width:800px){
-		.big-image{
-			aspect-ratio: 1/0.8;
-		}
-	}
-
 	
 </style>

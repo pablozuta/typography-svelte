@@ -44,4 +44,4 @@
 	understand the different features of typefaces.
 </p>
 
-<button class="boton-link"><a href="/bembo">Bembo >></a></button>
+<button class="boton-link"><a href="/typeface-and-their-histories">Typeface and their histories >></a></button>

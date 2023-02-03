@@ -1,3 +1,3 @@
 
 
-<button class="boton-link"><a href="/"></a></button>
+<button class="boton-link"><a href="/typographic-conventions">Typographic Conventions >></a></button>

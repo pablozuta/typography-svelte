@@ -1,6 +1,4 @@
-<div class="title-box">
-	<h1>Introduction To <span class="span-title">Typography</span> </h1>
-</div>
+
 
 <hr />
 <h3>What is Type?</h3>
@@ -58,6 +56,7 @@
 	the letter forms, and also information about the space between different combinations of letters.
 	So a font is the physical manifestation of type, whether in metal, film or code.
 </p>
+
 
 <div class="grid-2">
 	<div class="card">
@@ -163,22 +162,19 @@
 	Taken all together, these over all qualities of proportion and of stroke are what really give a
 	typeface it's particular appearance at type size.
 </p>
+<iframe src="https://www.youtube.com/embed/l5m2Vzwm4u8" title="YouTube video player" frameborder="0"  > </iframe>
 <button class="boton-link"><a href="/type-anatomy">Type Anatomy >></a></button>
 
 <!--aca comienzan los estilos de la pagina-->
 <style>
+	iframe{
+		width: 100%;
+		height: 500px;
+	}
 	hr {
 		border: 1px solid black;
 	}
-	.title-box {
-		background-color: #3a7575;
-		padding: 2rem;
-		color: blanchedalmond;
-		margin-top: 1.3rem;
-	}
-	.span-title{
-		color:#E7B75F;
-	}
+	
 	.stroke-and-proportion{
 		border-bottom: 2px solid #E7B75F ;
 	}

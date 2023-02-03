@@ -1,3 +1,3 @@
 
 
-<button class="boton-link"><a href="/"></a></button>
+<button class="boton-link"><a href="/beyond-typesetting">Beyond Typesetting >></a></button>

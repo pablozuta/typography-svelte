@@ -57,4 +57,4 @@
 	is often seen as the cradle of European modernism.
 </p>
 
-<button class="boton-link"><a href="/type-anatomy">Type Anatomy >></a></button>
+<button class="boton-link"><a href="/helvetica">Helvetica >></a></button>

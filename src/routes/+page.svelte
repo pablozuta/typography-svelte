@@ -3,7 +3,7 @@
 </div>
 
 <hr />
-<h3>🌅 What is Type?</h3>
+<h3>What is Type?</h3>
 <p>
 	Well let's start by sorting out two terms that get confused a lot, <strong>
 		font and typeface</strong
@@ -97,7 +97,7 @@
 	designer or distributor in order to be used legally.
 </p>
 
-<h3 class="stroke-and-proportion">🌅 Stroke and Proportion </h3>
+<h3 class="stroke-and-proportion">Stroke and Proportion </h3>
 <p>
 	What really define the character , the look and feel of a typeface on actually use is not it's
 	details but some overall qualities of stroke & proportion , and these qualities are what

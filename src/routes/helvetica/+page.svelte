@@ -1,5 +1,5 @@
 <main>
-	<h3>Helvetica: International Modern</h3>
+	<h3 class="under">Helvetica: International Modern</h3>
 	<p>
 		After the Second World War in the 1950s, European graphic designers, especially Swiss designers,
 		associated with the Basel School of Design, continued to build on the ideas of early modernist

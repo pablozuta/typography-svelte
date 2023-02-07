@@ -1,5 +1,5 @@
 <main>
-	<h3>The Grid</h3>
+	<h3 class="under">The Grid</h3>
 	<p>
 		One way you can make a typographic composition look refined is to define a structure for the
 		space of page or screen and then to align elements in the composition to this structure. And in

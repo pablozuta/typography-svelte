@@ -1,6 +1,6 @@
 
 <main>
-    <h3>Choosing A Typeface</h3>
+    <h3 class="under">Choosing A Typeface</h3>
     <p>Today there are hundreds and thousands of available typefaces. So the choice of what typeface to use for a project can be overwhelming. There's no magic recipe for choosing type, but in this lecture we'll look at some of the pragmatic considerations that may inform your choice.</p>
     <p>If you're choosing a typeface to set in text, you may want to start by considering legibility. How easy it is to distinguish one letter or word from the next.</p>
     <p>As I mentioned before serif typefaces are conventionally seen as easier to read and text than sans serifs because the serifs help visually define each baseline.</p>

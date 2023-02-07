@@ -1,5 +1,5 @@
 <main>
-	<h3>Typographic Conventions</h3>
+	<h3 class="under">Typographic Conventions</h3>
 	<p>
 		Now that we've looked at the visual principles that govern type setting and typographic
 		composition, we're going to switch our attention to the conventions, the rules of proper type

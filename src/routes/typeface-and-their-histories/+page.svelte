@@ -1,5 +1,5 @@
 <main>
-    <h3>Typefaces and their stories</h3>
+    <h3 class="under">Typefaces and their stories</h3>
     <p>
         Typeface's suitability for a particular use is determined not only by its functional
         characteristics, but also by its connotative meaning.

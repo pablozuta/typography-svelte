@@ -1,4 +1,4 @@
-<h3>Futura: the Typographic Avant-Garde</h3>
+<h3 class="under">Futura: the Typographic Avant-Garde</h3>
 
 <p>
 	At the beginning of the 20th century, the western world was changing at a disorienting pace.

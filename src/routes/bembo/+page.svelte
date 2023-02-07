@@ -1,4 +1,4 @@
-<h3>Bembo: Humanist letters</h3>
+<h3 class="under">Bembo: Humanist letters</h3>
 <p>Before Johannes Gutenberg introduced movable type to Europe, books were handwritten by scribes, many of whom worked in monasteries. These books took a lot of skill and labor to produce. They were rarefied, valuable objects, and marks of prestige for their owners.
 When Gutenberg developed his system of movable type in 1439 and began printing and selling books, it made sense for him to try to simulate the look and feel of these handmade books as closely as possible.</p>
 <p>So his early typefaces imitated the handwriting style of scribes in northern Europe.

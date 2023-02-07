@@ -1,4 +1,4 @@
-<h3>Type Anatomy</h3>
+<h3 class="under">Type Anatomy</h3>
 
 <p>
 	Although the details of individual letter forms are usually invisible at small scale, it's still

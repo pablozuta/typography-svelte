@@ -1,5 +1,5 @@
 <main>
-	<h3>Typographic Space</h3>
+	<h3 class="under">Typographic Space</h3>
 	<p>
 		Typography is as much about shaping the space between and around letters, words, and blocks of
 		text as it is about shaping type itself. In typography, there are terms for different kinds of

@@ -1,5 +1,5 @@
 <main>
-	<h3>Typesetting with Expression</h3>
+	<h3 class="under">Typesetting with Expression</h3>
 	<p>
 		Over the last two weeks we've seen how type face choice, composition, and typesetting not only
 		determine the aesthetics of a piece of typography but also shape its meaning in subtle ways.

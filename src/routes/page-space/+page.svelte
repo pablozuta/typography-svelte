@@ -1,5 +1,5 @@
 <main>
-	<h3>Page Space</h3>
+	<h3 class="under">Page Space</h3>
 	<p>
 		A piece of typography is both form, a visual element with shape, texture, figure and ground, and
 		direction, and language, an expression of thought with grammar, syntax, and rhythm.

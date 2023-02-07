@@ -1,5 +1,5 @@
 <main>
-    <h3>Beyond Typesetting</h3>
+    <h3 class="under">Beyond Typesetting</h3>
     <p>We can also go beyond conventional typesetting altogether and approach type not as text to be typeset but as formal material to be composed, manipulated or rendered in any number of ways.</p>
     <p>Sometimes, breaking a rule of typesetting in a controlled way can be poetic. In this book cover, for instance, the designers have created uneven spaces in the title, arranging the words in a way that draws attention to the symmetry between a man and a woman.</p>
     <p>In this cover for a book on architecture, the title is broken up with stretched dashes, turning it into a shape reminiscent of an architectural structure.</p>

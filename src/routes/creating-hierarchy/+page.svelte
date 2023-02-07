@@ -1,5 +1,5 @@
 <main>
-	<h3>Creating hierarchy</h3>
+	<h3 class="under">Creating hierarchy</h3>
 	<p>
 		So far we've looked at how to use space to organize and structure typography. In this video,
 		we'll look at how a visual hierarchy can further clarify and structure our type. 100 years ago,

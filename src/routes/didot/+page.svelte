@@ -1,4 +1,4 @@
-<h3>Didot: Enlightened Refinement</h3>
+<h3 class="under">Didot: Enlightened Refinement</h3>
 <p>
 	In this case study we're going to look at a typeface designed 300 years after Bembo, in the late
 	18th century, the late 1700s. It's a design that today is known as Didot.

@@ -1,5 +1,5 @@
 <main>
-	<h3 class="under">Helvetica: International Modern</h3>
+	<h3>Helvetica: International Modern</h3>
 	<p>
 		After the Second World War in the 1950s, European graphic designers, especially Swiss designers,
 		associated with the Basel School of Design, continued to build on the ideas of early modernist
@@ -15,6 +15,10 @@
 		crude. They had come out of that period of wild typographic experimentation in the late 19th
 		century. And they hadn't developed much since then.
 	</p>
+	<img
+		src="https://i0.wp.com/christaheinzer.ch/wp-content/uploads/2018/06/mengensatz3.jpg?resize=1024%2C734&ssl=1"
+		alt="neue grafik magazine"
+	/>
 	<p>
 		The sans serif typeface favored by the Swiss school designers. The one that got closest to the
 		clean look that they were after was Akzidenz-Grotesk, a German typeface from the 1890s. Sans
@@ -51,8 +55,25 @@
 		reviled by postmodernist graphic designers as embodying a kind of brain-numbing, glossy,
 		corporate sameness.
 	</p>
+	<img
+		src="https://images.squarespace-cdn.com/content/v1/59d29824b1ffb6ce197f5392/1518584058453-9HWLD8EKAH7K2CFC55QS/manfred.jpg?format=1000w"
+		alt="helvetica typeface"
+	/>
 	<p>
 		Whatever your opinion, it's clear that Helvetica has become the ultimate default in typography.
 	</p>
 	<button class="boton-link"><a href="/typographic-space">Typographic Space >></a></button>
 </main>
+
+<style>
+	@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;1,300&display=swap');
+	p {
+		font-family: 'Roboto', sans-serif;
+		font-size: 1.2rem;
+	}
+
+	h3 {
+		font-family: 'Roboto', sans-serif;
+		border-bottom: 2px solid #f091a9;
+	}
+</style>

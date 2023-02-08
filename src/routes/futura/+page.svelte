@@ -1,5 +1,8 @@
-<h3 class="under">Futura: the Typographic Avant-Garde</h3>
-
+<h3>Futura: the Typographic Avant-Garde</h3>
+<img
+	src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*fjstntLHBsy5nK917bLqRQ.png"
+	alt="futura letter poster"
+/>
 <p>
 	At the beginning of the 20th century, the western world was changing at a disorienting pace.
 	Cities were continuing to expand, railways, airplanes, and automobiles connected people
@@ -39,6 +42,10 @@
 	simple geometric shapes and the result in 1927 was Futura. Futura developed out of a process of
 	experimentation. Renner began with really radical and strictly geometric forms.
 </p>
+<img
+	src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/65d92027357221.56363f325c4c4.jpg"
+	alt="futura poster bauhaus"
+/>
 <p>
 	But as he developed the typeface, he made compromises with the visual conventions of traditional
 	type. For instance, he pinched curved strokes where they intersected vertical strokes, to avoid
@@ -58,3 +65,18 @@
 </p>
 
 <button class="boton-link"><a href="/helvetica">Helvetica >></a></button>
+
+<style>
+	@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap');
+
+	p {
+		font-family: 'Didact Gothic', sans-serif;
+		font-size: 1.3rem;
+	}
+
+	h3 {
+		font-family: 'Didact Gothic', sans-serif;
+		font-size: 2rem;
+		border-bottom: 2px solid #4c9bb0;
+	}
+</style>

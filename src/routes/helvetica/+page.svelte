@@ -1,5 +1,5 @@
 <main>
-	<h3>Helvetica: International Modern</h3>
+	<h3>HELVETICA: INTERNATIONAL MODERN</h3>
 	<p>
 		After the Second World War in the 1950s, European graphic designers, especially Swiss designers,
 		associated with the Basel School of Design, continued to build on the ideas of early modernist
@@ -69,7 +69,7 @@
 	@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;1,300&display=swap');
 	p {
 		font-family: 'Roboto', sans-serif;
-		font-size: 1.1rem;
+		font-size: 1.15rem;
 	}
 
 	h3 {

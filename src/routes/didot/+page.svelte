@@ -1,4 +1,4 @@
-<h3 class="under">Didot: Enlightened Refinement</h3>
+<h3 class="under">DIDOT: ENLIGHTENED REFINEMENT</h3>
 <p>
 	In this case study we're going to look at a typeface designed 300 years after Bembo, in the late
 	18th century, the late 1700s. It's a design that today is known as Didot.
@@ -32,12 +32,15 @@
 	the printing of very precise fine lines. And in the 18th century, type designers and printers
 	pushed their craft to try achieve this fine line aesthetic in letter press printing.
 </p>
-<p>
+<div class="container-baskerville">
+<p class="baskerville">
 	One particularly innovative printer was an Englishman, John Baskerville. He developed innovations
 	in paper and ink making that allowed him to design and print typefaces with much more delicate
 	strokes. In 1757, he designed the typeface Baskerville. Baskerville is known as a transitional
 	serif. It's roughly half way along the evolution from old style to modern serif.
 </p>
+<img src="http://luc.devroye.org/Monotype-Baskerville--Poster-by-TiffanyMorgan-2016.png" alt="baskerville typography poster">
+</div>
 <p>
 	Transitional serifs have a vertical axis, more modulation than an old style serif, but still
 	bracketed serifs. 40 years later, these trends towards rationality and mechanicalness matured in
@@ -55,15 +58,31 @@
 	European fashion publications in the 1950's, sixties, and seventies. And they're still really
 	closely associated with the world and with the aesthetics of fashion.
 </p>
+<img src="https://cdn.shopify.com/s/files/1/2096/4023/products/s-l1600_5_86b1656e-9168-4bcf-8499-af6f9533abda_1024x1024.jpg?v=1571720123" alt="madonna vogue magazine cover">
 
 <button class="boton-link"><a href="/futura">Futura >></a></button>
 
 <style>
 	@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400;0,6..96,500;0,6..96,700;1,6..96,400&display=swap');
 
+	@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+
 	p {
 		font-family: 'Bodoni Moda', serif;
 		font-size: 1.3rem;
+	}
+
+	.baskerville{
+		font-family: 'Libre Baskerville', serif;
+		font-size: 1.4rem;
+		color: rgb(110, 110, 110);
+	}
+	.container-baskerville{
+		border-radius: 8px;
+		background-color: palegoldenrod;
+		padding-bottom: 2rem;
+		padding-inline: 1rem;
+		padding-top: 1rem;
 	}
 
 	h3 {

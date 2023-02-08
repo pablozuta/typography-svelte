@@ -7,9 +7,8 @@
 <style>
     .title-box {
         
-		background-color: #3a7575;
+		background-color: #599F68;
 		padding-inline: 2rem;
-        padding-block: 0.2rem;
         text-align: center;
 		color: blanchedalmond;
 		margin-top: 1.3rem;

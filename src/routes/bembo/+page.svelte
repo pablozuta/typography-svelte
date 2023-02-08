@@ -6,6 +6,7 @@
 	his system of movable type in 1439 and began printing and selling books, it made sense for him to
 	try to simulate the look and feel of these handmade books as closely as possible.
 </p>
+<img src="https://www.worldatlas.com/r/w2560-q80/upload/08/fc/b5/manuscript-from-italy.jpg" alt="manuscript from italy middle ages">
 <p>
 	So his early typefaces imitated the handwriting style of scribes in northern Europe. This style
 	was called the black-letter and it remained popular in parts of Europe into the 20th century.
@@ -18,8 +19,9 @@
 	making type that imitated the writing style of southern European scribes. This writing style was
 	called Humanist Minuscule, or just Roman Script.
 </p>
+<img src="https://pro2-bar-s3-cdn-cf.myportfolio.com/0aaecc4b-50fd-4436-bc00-efb19c7e9e62/1c92f5b5-e846-4f7b-bc23-1181305ad57a.jpg?h=05aa0bca96230854d1986428b2e32593" alt="bembo typografic specimen">
 <p>
-	And as you can see, it's the style of letters that we're most familiar with today. The most
+	The most
 	influential figure in the Venetian printing scene was Aldus Manutius, a publisher who ran a press
 	called the Aldine Press. Manutius was the first publisher to successfully produce books cheaply
 	and in large quantities for more mass audience, rather than just for elite customers. In around
@@ -34,15 +36,15 @@
 	much text onto each page as possible, Manutius also commissioned Griffo to draw one of the first
 	italics.
 </p>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/dde82b18621623.562cc86d8a7b4.jpg" alt="magazine open bembo typography">
+<img src="http://luc.devroye.org/Monotype--Bembo--1929-Poster-by-AmyLynnGrover-2014g.jpg" alt="bembo typography poster">
 <p>
 	Italics were based on another, less formal style of southern European script. If you carefully
 	compare an italic typeface to a Roman typeface, you'll see that there's a lot more difference than
 	just the slanted angle. The shapes of the letters themselves are actually quite different. And in
 	fact, italic type was not initially designed to go together with Roman type. That only happened
 	later. Early Roman style typeface is from the 15th and 16th century like Bembo are often referred
-	to old-style serif typefaces. This style is characterized by a strong calligraphic flavor. Some
-	common features of old-style typefaces are a tilted axis, bracketed serifs, serifs that have a
-	curved connection to the rest of the stroke, and a small x-height. Because of their age and their
+	to old-style serif typefaces. This style is characterized by a strong calligraphic flavor. Because of their age and their
 	association with books, we tend to associate typefaces like Bembo with literature, classicism and
 	the Middle Ages.
 </p>

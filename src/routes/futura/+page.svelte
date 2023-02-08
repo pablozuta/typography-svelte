@@ -1,4 +1,5 @@
-<h3>Futura: the Typographic Avant-Garde</h3>
+<h3>FUTURA: THE TYPOGRAPHIC AVANT-GARDE</h3>
+
 <img
 	src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*fjstntLHBsy5nK917bLqRQ.png"
 	alt="futura letter poster"
@@ -28,8 +29,7 @@
 	properties of form, color and structure to effectively communicate.
 </p>
 <p>
-	This is a page from Painting Photography and Film, a book Moholy-Nagy wrote and designed in 1923.
-	And this lay out demonstrates Moholy-Nagy's vision for graphic design. In 1928, another
+	 In 1928, another
 	influential German designer, Jan Tschichold, summarize the principles of constructivist design as
 	applied to typography in this book, The New Typography. Amongst other things, Tschichold advocated
 	for the use of sans-serif type rather than traditional serif type. He argued that sans-serifs were
@@ -42,10 +42,7 @@
 	simple geometric shapes and the result in 1927 was Futura. Futura developed out of a process of
 	experimentation. Renner began with really radical and strictly geometric forms.
 </p>
-<img
-	src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/65d92027357221.56363f325c4c4.jpg"
-	alt="futura poster bauhaus"
-/>
+
 <p>
 	But as he developed the typeface, he made compromises with the visual conventions of traditional
 	type. For instance, he pinched curved strokes where they intersected vertical strokes, to avoid
@@ -63,6 +60,7 @@
 	early European modernism. This is the Bauhaus School is Dessau where Moholy-Nagy taught and which
 	is often seen as the cradle of European modernism.
 </p>
+<img src="https://images.adsttc.com/media/images/5a9f/e5e3/f197/ccfd/a000/0043/large_jpg/4_Bauhaus_Dessau_Nate_Robert_via_Flickr_CC_BY_2.0.jpg?1520428510" alt="bauhaus school building">
 
 <button class="boton-link"><a href="/helvetica">Helvetica >></a></button>
 
@@ -78,5 +76,6 @@
 		font-family: 'Didact Gothic', sans-serif;
 		font-size: 2rem;
 		border-bottom: 2px solid #4c9bb0;
+		letter-spacing: 0.2rem;
 	}
 </style>

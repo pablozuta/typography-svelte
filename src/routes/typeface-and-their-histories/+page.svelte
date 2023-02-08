@@ -11,11 +11,14 @@
         19th century to reference a handwriting style from the Renaissance. But in the 20th century, it
         became associated with Nazism. And after the war, it stopped being used for this reason.
     </p>
+    <img src="https://pbs.twimg.com/media/FD0vUB0WEAQLZIy?format=jpg&name=4096x4096" alt="fette fraktur typography">
     <p>
         Or Helvetica, a typeface designed in the 1950's with the valid intention of being completely
         neutral, but which ironically has become a loaded signifier of American corporate culture and a
         flashpoint for debate amongst designers.
     </p>
+    <img src="https://www.webdesignerdepot.com/cdn-origin/uploads/helvetica/target.jpg" alt="target entrance">
+      
     <p>
         As typographers, it's our job to be aware of and be able to sensitively leverage these stories
         when we choose and use type to enhance our nuance meaning in our design. To become truly fluent

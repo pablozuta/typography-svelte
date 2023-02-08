@@ -57,3 +57,17 @@
 </p>
 
 <button class="boton-link"><a href="/futura">Futura >></a></button>
+
+<style>
+	@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400;0,6..96,500;0,6..96,700;1,6..96,400&display=swap');
+
+	p {
+		font-family: 'Bodoni Moda', serif;
+		font-size: 1.3rem;
+	}
+
+	h3 {
+		font-family: 'Bodoni Moda', serif;
+		font-size: 2.3rem;
+	}
+</style>

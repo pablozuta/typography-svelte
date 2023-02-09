@@ -29,12 +29,11 @@
 	properties of form, color and structure to effectively communicate.
 </p>
 <p>
-	 In 1928, another
-	influential German designer, Jan Tschichold, summarize the principles of constructivist design as
-	applied to typography in this book, The New Typography. Amongst other things, Tschichold advocated
-	for the use of sans-serif type rather than traditional serif type. He argued that sans-serifs were
-	more functional and less decorative than serifs and were therefore more appropriate to the modern
-	age.
+	In 1928, another influential German designer, Jan Tschichold, summarize the principles of
+	constructivist design as applied to typography in this book, The New Typography. Amongst other
+	things, Tschichold advocated for the use of sans-serif type rather than traditional serif type. He
+	argued that sans-serifs were more functional and less decorative than serifs and were therefore
+	more appropriate to the modern age.
 </p>
 <p>
 	Working at the same time as Moholy-Nagy and Tschichold, the type designer Paul Renner sought to
@@ -48,6 +47,11 @@
 	type. For instance, he pinched curved strokes where they intersected vertical strokes, to avoid
 	creating dark areas at the intersections.
 </p>
+
+<img
+	src="https://www.extensis.com/hs-fs/hubfs/D_Extensis-Futura-Blog-img-06.jpg?width=2034&name=D_Extensis-Futura-Blog-img-06.jpg"
+	alt="futura anatomy poster"
+/>
 <p>
 	Typefaces like Futura that use minimal geometric forms are called geometric san-serifs. These
 	typefaces generally have an apparently circular O, an almost entirely unmodulated stroke, and
@@ -60,7 +64,10 @@
 	early European modernism. This is the Bauhaus School is Dessau where Moholy-Nagy taught and which
 	is often seen as the cradle of European modernism.
 </p>
-<img src="https://images.adsttc.com/media/images/5a9f/e5e3/f197/ccfd/a000/0043/large_jpg/4_Bauhaus_Dessau_Nate_Robert_via_Flickr_CC_BY_2.0.jpg?1520428510" alt="bauhaus school building">
+<img
+	src="https://images.adsttc.com/media/images/5a9f/e5e3/f197/ccfd/a000/0043/large_jpg/4_Bauhaus_Dessau_Nate_Robert_via_Flickr_CC_BY_2.0.jpg?1520428510"
+	alt="bauhaus school building"
+/>
 
 <button class="boton-link"><a href="/helvetica">Helvetica >></a></button>
 

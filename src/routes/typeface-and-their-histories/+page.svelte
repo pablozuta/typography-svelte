@@ -17,7 +17,7 @@
         neutral, but which ironically has become a loaded signifier of American corporate culture and a
         flashpoint for debate amongst designers.
     </p>
-    <img src="https://www.webdesignerdepot.com/cdn-origin/uploads/helvetica/target.jpg" alt="target entrance">
+  
       
     <p>
         As typographers, it's our job to be aware of and be able to sensitively leverage these stories
@@ -33,5 +33,8 @@
         Through these case studies, you'll get a rough outline of the history of type and a sense of how
         typefaces have been shaped by, and have become expressive of, different cultural ideas.
     </p>
+    <div class="container-links-pages">
+    <a class="link-routes" href="/"> HOME </a>
    <a class="link-routes" href="/bembo">Bembo >></a>
+</div>
 </main>

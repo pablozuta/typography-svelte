@@ -6,11 +6,50 @@
     
     <p>Finally, typography can also be used to create visual hierarchy and emphasis on a website. By using different font sizes, styles, and weights, designers can draw attention to important elements of a website and make it easier for users to navigate. This can help to guide users through the website and ensure that they can find the information they are looking for quickly and easily. </p>
     
-   
-<a class="link-routes" href="/what-is-type">What is Type? >></a>
+<ul class="links-container">
+    <li><a class="link-principal" href="/what-is-type">WHAT IS TYPE?</a></li>
+    <li><a class="link-principal" href="/stroke-and-proportion">STROKE AND PROPORTION</a></li>
+    <li><a class="link-principal" href="/type-anatomy">TYPE ANATOMY</a></li>
+    <li><a class="link-principal" href="/choosing-type">CHOOSING TYPE</a></li>
+    <li><a class="link-principal" href="/typeface-and-their-histories">TYPEFACES AND THEIR HISTORIES</a></li>
+    <li><a class="link-principal" href="/bembo">BEMBO: HUMANIST LETTERS</a></li>
+    <li><a class="link-principal" href="/didot">DIDOT: ENLIGHTENED REFINEMENT</a></li>
+    <li><a class="link-principal" href="/futura">FUTURA: THE TYPOGRAPHYC AVANT-GARDE</a></li>
+    <li><a class="link-principal" href="/helvetica">HELVETICA: INTERNATIONAL MODERN</a></li>
+    <li><a class="link-principal" href="/typographic-space">TYPOGRAPHIC SPACE</a></li>
+    <li><a class="link-principal" href="/page-space">PAGE SPACE</a></li>
+    <li><a class="link-principal" href="/the-grid">THE GRID</a></li>
+    <li><a class="link-principal" href="/creating-hierarchy">CREATING HIERARCHY</a></li>
+    <li><a class="link-principal" href="/typographic-conventions">TYPOGRAPHIC CONVENTIONS</a></li>
+    <li><a class="link-principal" href="/typesetting-with-expression">TYPESETTING WITH EXPRESSION</a></li>
+    <li><a class="link-principal" href="/beyond-typesetting">BEYOND TYPESETTING</a></li>
+
+</ul> 
+
 </main>
 
+<style>
+    .links-container{
+        display: flex;
+        flex-direction: column;
+        gap: 0.7rem;
+    }
+   
+    ul > li > a {
+        text-decoration: none;
+        color: black;
+        letter-spacing: 0.03rem;
+        
+        
+    }
+    
+    ul > li > a:hover {
+       
+        color: coral;
+        border-bottom: 1px solid coral;
+    }
 
+</style>
 
 
 

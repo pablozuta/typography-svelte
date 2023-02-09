@@ -96,7 +96,7 @@
 	company. But most other high quality typefaces must be purchased and downloaded from their
 	designer or distributor in order to be used legally.
 </p>
-<iframe src="https://www.youtube.com/embed/l5m2Vzwm4u8" title="YouTube video player" frameborder="0"  > </iframe>
+
 
 <a class="link-routes" href="/stroke-and-proportion">Stroke and Proportion >></a>
 </main>

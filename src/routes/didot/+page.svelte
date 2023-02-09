@@ -39,7 +39,7 @@
 	strokes. In 1757, he designed the typeface Baskerville. Baskerville is known as a transitional
 	serif. It's roughly half way along the evolution from old style to modern serif.
 </p>
-<img src="http://luc.devroye.org/Monotype-Baskerville--Poster-by-TiffanyMorgan-2016.png" alt="baskerville typography poster">
+<img src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1675915113/Typography%20Svelte/baker_w1nmbs.png" alt="baskerville typography poster">
 </div>
 <p>
 	Transitional serifs have a vertical axis, more modulation than an old style serif, but still

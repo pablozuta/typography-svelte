@@ -1,4 +1,4 @@
-<h3>Bembo: Humanist letters</h3>
+<h3>BEMBO: HUMANIST LETTERS</h3>
 <p>
 	Before Johannes Gutenberg introduced movable type to Europe, books were handwritten by scribes,
 	many of whom worked in monasteries. These books took a lot of skill and labor to produce. They
@@ -37,7 +37,6 @@
 	italics.
 </p>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/dde82b18621623.562cc86d8a7b4.jpg" alt="magazine open bembo typography">
-<img src="http://luc.devroye.org/Monotype--Bembo--1929-Poster-by-AmyLynnGrover-2014g.jpg" alt="bembo typography poster">
 <p>
 	Italics were based on another, less formal style of southern European script. If you carefully
 	compare an italic typeface to a Roman typeface, you'll see that there's a lot more difference than
@@ -48,7 +47,10 @@
 	association with books, we tend to associate typefaces like Bembo with literature, classicism and
 	the Middle Ages.
 </p>
-<button class="boton-link"><a href="/didot">Didot >></a></button>
+
+<a href="/didot">Didot >></a>
+<br>
+<br>
 
 <style>
 	@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400&display=swap');
@@ -60,5 +62,9 @@
 	h3 {
 		font-family: 'EB Garamond', serif;
 		border-bottom: 2px solid #5555;
+	}
+
+	a{
+		color:black;
 	}
 </style>

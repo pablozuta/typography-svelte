@@ -1,19 +1,19 @@
 <div class="title-box">
-	<h1>Introduction To <span class="span-title">Typography</span> </h1>
-    <button class="boton-link"><a href="/">/ home</a></button>
+	<h1>Introduction To <span class="span-title">Typography</span></h1>
 </div>
 
-<slot></slot>
+<slot />
+
 <style>
-    .title-box {
-        
-		background-color: #599F68;
+	.title-box {
+		background-color: rgb(28, 28, 28);
 		padding-inline: 2rem;
-        text-align: center;
-		color: blanchedalmond;
+		padding-block: 1rem;
+		text-align: center;
+		color: white;
 		margin-top: 1.3rem;
 	}
-	.span-title{
-		color:#E7B75F;
+	.span-title {
+		color: #e7b75f;
 	}
 </style>

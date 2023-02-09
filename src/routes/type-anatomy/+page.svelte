@@ -1,5 +1,4 @@
 <h3 class="under">Type Anatomy</h3>
-<img src="http://luc.devroye.org/Monotype--Bembo--1929-Poster-by-AmyLynnGrover-2014g.jpg" alt="monotype poster amylynngrover">
 
 <p>
 	Although the details of individual letter forms are usually invisible at small scale, it's still

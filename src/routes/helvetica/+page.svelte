@@ -56,8 +56,8 @@
 		corporate sameness.
 	</p>
 	<img
-		src="https://images.squarespace-cdn.com/content/v1/59d29824b1ffb6ce197f5392/1518584058453-9HWLD8EKAH7K2CFC55QS/manfred.jpg?format=1000w"
-		alt="helvetica typeface"
+		src="https://i.pinimg.com/originals/d5/48/f6/d548f62823907622e7e71f14b946744b.jpg"
+		alt="neue grafik magazine open"
 	/>
 	<p>
 		Whatever your opinion, it's clear that Helvetica has become the ultimate default in typography.

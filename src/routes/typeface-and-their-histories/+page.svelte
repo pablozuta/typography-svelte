@@ -33,5 +33,5 @@
         Through these case studies, you'll get a rough outline of the history of type and a sense of how
         typefaces have been shaped by, and have become expressive of, different cultural ideas.
     </p>
-    <button class="boton-link"><a href="/bembo">Bembo >></a></button>
+   <a class="link-routes" href="/bembo">Bembo >></a>
 </main>

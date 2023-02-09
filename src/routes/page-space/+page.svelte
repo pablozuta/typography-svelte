@@ -79,5 +79,5 @@
 		reads well and looks good. But it's this challenge that makes composing type really rewarding
 		and interesting.
 	</p>
-	<button class="boton-link"><a href="/the-grid">The Grid >></a></button>
+	<a class="link-routes" href="/the-grid">The Grid >></a>
 </main>

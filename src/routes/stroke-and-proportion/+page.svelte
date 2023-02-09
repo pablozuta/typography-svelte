@@ -66,5 +66,5 @@
 	typeface it's particular appearance at type size.
 </p>
 
-<button class="boton-link"><a href="/type-anatomy">Type Anatomy >></a></button>
+<a class="link-routes" href="/type-anatomy">Type Anatomy >></a>
 </main>

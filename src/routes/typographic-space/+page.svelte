@@ -88,5 +88,5 @@
 		and alignment all effect one another. So as a typographer it's important to be really aware of
 		all of these spacial relationships when your working with type.
 	</p>
-	<button class="boton-link"><a href="/page-space">Page Space >></a></button>
+	<a class="link-routes" href="/page-space">Page Space >></a>
 </main>

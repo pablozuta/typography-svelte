@@ -98,5 +98,5 @@
 </p>
 <iframe src="https://www.youtube.com/embed/l5m2Vzwm4u8" title="YouTube video player" frameborder="0"  > </iframe>
 
-<button class="boton-link"><a href="/stroke-and-proportion">Stroke and Proportion >></a></button>
+<a class="link-routes" href="/stroke-and-proportion">Stroke and Proportion >></a>
 </main>

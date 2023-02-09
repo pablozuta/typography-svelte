@@ -81,7 +81,5 @@
 		organizational principles we discussed in the last few videos, they'll add a final degree of
 		professional polish to your typography.
 	</p>
-	<button class="boton-link"
-		><a href="/typesetting-with-expression">Typesetting With Expression >></a></button
-	>
+	<a class="link-routes" href="/typesetting-with-expression">Typesetting With Expression >></a>
 </main>

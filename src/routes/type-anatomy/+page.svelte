@@ -44,4 +44,4 @@
 	understand the different features of typefaces.
 </p>
 
-<button class="boton-link"><a href="/choosing-type">Choosing Type >></a></button>
+<a class="link-routes" href="/choosing-type">Choosing Type >></a>

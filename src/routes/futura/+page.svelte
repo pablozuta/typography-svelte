@@ -69,7 +69,7 @@
 	alt="bauhaus school building"
 />
 
-<button class="boton-link"><a href="/helvetica">Helvetica >></a></button>
+<a class="link-routes" href="/helvetica">Helvetica >></a>
 
 <style>
 	@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap');

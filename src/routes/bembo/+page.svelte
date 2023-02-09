@@ -48,7 +48,7 @@
 	the Middle Ages.
 </p>
 
-<a href="/didot">Didot >></a>
+<a class="link-routes" href="/didot">Didot >></a>
 <br>
 <br>
 

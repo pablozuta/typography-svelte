@@ -12,7 +12,7 @@
     <p>
         To establish a through line of consistency, look for type faces with similar proportions start by comparing the x-height of the type faces. Then compare the shapes of the letters like the shapes of the O's and of the A's and G's. For a perfect match, consider choosing two typefaces that were designed specifically to go together.
         The pragmatic issues we've looked at here are only some of the considerations involved in choosing a typeface. The rest has to do with the subjective feel of the typeface, as it's often shaped by its history, uses, and associations.</p>
-        <button class="boton-link"><a href="/typeface-and-their-histories">Typeface and their histories >></a></button>
+       <a class="link-routes" href="/typeface-and-their-histories">Typeface and their histories >></a>
     
 </main>
 

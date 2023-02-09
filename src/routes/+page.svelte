@@ -7,7 +7,7 @@
     <p>Finally, typography can also be used to create visual hierarchy and emphasis on a website. By using different font sizes, styles, and weights, designers can draw attention to important elements of a website and make it easier for users to navigate. This can help to guide users through the website and ensure that they can find the information they are looking for quickly and easily. </p>
     
    
-<button class="boton-link"><a href="/what-is-type">What is Type? >></a></button>
+<a class="link-routes" href="/what-is-type">What is Type? >></a>
 </main>
 
 

@@ -60,7 +60,7 @@
 </p>
 <img src="https://cdn.shopify.com/s/files/1/2096/4023/products/s-l1600_5_86b1656e-9168-4bcf-8499-af6f9533abda_1024x1024.jpg?v=1571720123" alt="madonna vogue magazine cover">
 
-<button class="boton-link"><a href="/futura">Futura >></a></button>
+<a class="link-routes" href="/futura">Futura >></a>
 
 <style>
 	@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400;0,6..96,500;0,6..96,700;1,6..96,400&display=swap');

@@ -61,7 +61,6 @@
 		to exaggerate the importance of well-executed hierarchy in creating typography that is inviting
 		and can easily be accessed and parsed by a reader.
 	</p>
-	<button class="boton-link"
-		><a href="/typographic-conventions">Typographic Conventions >></a></button
+	<a class="link-routes" href="/typographic-conventions">Typographic Conventions >></a>
 	>
 </main>

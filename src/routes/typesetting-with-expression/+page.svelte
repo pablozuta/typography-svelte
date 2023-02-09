@@ -95,5 +95,5 @@
 		clearly convey its intended message to an audience.
 	</p>
 
-	<button class="boton-link"><a href="/beyond-typesetting">Beyond Typesetting >></a></button>
+	<a class="link-routes" href="/beyond-typesetting">Beyond Typesetting >></a>
 </main>

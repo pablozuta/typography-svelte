@@ -1,6 +1,4 @@
 <main>
-    
-
 
 <h3 class="under">What is Type?</h3>
 <p>
@@ -15,6 +13,8 @@
 	design that can be represented and re-represented at many sizes and in many formats.
 </p>
 
+<img src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668576809/Typography%20Svelte/Screenshot_20221112-121349_Coursera_lasxay.jpg" alt="metal letters">
+
 <p>
 	A font originally referred to one set of metal type. In a California job case, a standard filing
 	system for metal typet hat has the letters and other typographic elements arranged according to
@@ -28,24 +28,6 @@
 	carved his letter forms at actual scale and then cast them in a mixture of metals, mostly lead.
 </p>
 
-<div class="grid-2">
-	<div class="card">
-		<img
-			src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668576810/Typography%20Svelte/gutenberg.jpg"
-			class="artist__img"
-			alt="gutenberg"
-		/>
-	</div>
-
-	<div class="card">
-		<img
-			src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668576809/Typography%20Svelte/california-box.jpg"
-			class="artist__img"
-			alt="california case"
-		/>
-	</div>
-</div>
-<!--fin grid-->
 
 <p>
 	The process of letterpress printing remained the main technology for setting and reproducing type
@@ -59,30 +41,14 @@
 </p>
 
 
-<div class="grid-2">
-	<div class="card">
-		<img
-			src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668576809/Typography%20Svelte/Screenshot_20221112-121349_Coursera_lasxay.jpg"
-			class="artist__img"
-			alt="gutenberg"
-		/>
-	</div>
 
-	<div class="card">
-		<img
-			src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668577796/Typography%20Svelte/Screenshot_20221112-122125_Coursera_bauzfi.jpg"
-			class="artist__img"
-			alt="bi sheng"
-		/>
-	</div>
-</div>
-<!--fin grid-->
 
 <p>
 	In contrast to a font, typeface describes the <strong>visual design of a particular set of letter forms.</strong>
 	Typefaces are massive design projects. To create a fully functioning contemporary typeface, a
 	designer must create hundreds and thousands of carefully considered individual drawings.
 </p>
+<img src="https://miro.medium.com/max/720/1*sUoGc8L9osQ6cgMuPaalrg.webp" alt="universal alphabet poster">
 <p>
 	At minimum, typefaces these days include uppercase letters, lowercase letters, numbers called
 	figures, often in several different styles,fractions and mathematical symbols, punctuation and

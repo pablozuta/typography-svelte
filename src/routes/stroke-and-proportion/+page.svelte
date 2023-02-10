@@ -7,24 +7,7 @@
 	typographic alphabet emerged from scribes' handwriting in the 15th century. So the lines that form
 	letters are called strokes and are based on calligraphic marks.
 </p>
-<div class="grid-2">
-	<div class="card">
-		<img
-			src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668577795/Typography%20Svelte/stroke-and-proportion.jpg"
-			class="artist__img2"
-			alt="gutenberg"
-		/>
-	</div>
 
-	<div class="card">
-		<img
-			src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668578311/Typography%20Svelte/Screenshot_20221112-122501_Coursera_d1jpk9.jpg"
-			class="artist__img2"
-			alt="bi sheng"
-		/>
-	</div>
-</div>
-<!--fin grid-->
 
 <p>
 	Weight is the thickness of a stroke, and this varies between typefaces and also within type
@@ -32,6 +15,7 @@
 	text. Stroke modulation is how much the thickness of the stroke changes in different parts of the
 	letter.
 </p>
+<img src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1668578311/Typography%20Svelte/Screenshot_20221112-122501_Coursera_d1jpk9.jpg" alt="weight of typography">
 
 <p>
 	In traditional calligraphy, the brusher pen is held at a constant angle as the letters are drawn,

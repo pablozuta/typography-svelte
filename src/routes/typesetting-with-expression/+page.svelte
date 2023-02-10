@@ -99,6 +99,10 @@
 		always about communication and a piece of expressive type is only successful if it is able to
 		clearly convey its intended message to an audience.
 	</p>
+	
+	<div class="container-links-pages">
+    <a class="link-routes" href="/"> HOME </a>
+   <a class="link-routes" href="/beyond-typesetting">Beyond Typesetting ></a>
 
-	<a class="link-routes" href="/beyond-typesetting">Beyond Typesetting >></a>
+	
 </main>

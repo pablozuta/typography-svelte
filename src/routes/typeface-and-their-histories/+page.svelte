@@ -33,8 +33,10 @@
         Through these case studies, you'll get a rough outline of the history of type and a sense of how
         typefaces have been shaped by, and have become expressive of, different cultural ideas.
     </p>
+
     <div class="container-links-pages">
     <a class="link-routes" href="/"> HOME </a>
    <a class="link-routes" href="/bembo">Bembo >></a>
+   
 </div>
 </main>

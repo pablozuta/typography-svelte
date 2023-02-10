@@ -62,7 +62,11 @@
 	<p>
 		Whatever your opinion, it's clear that Helvetica has become the ultimate default in typography.
 	</p>
-	<a class="link-routes" href="/typographic-space">Typographic Space >></a>
+	
+	<div class="container-links-pages">
+		<a class="link-routes" href="/"> HOME </a>
+		<a class="link-routes" href="/typographic-space">Space ></a>
+	</div>
 </main>
 
 <style>

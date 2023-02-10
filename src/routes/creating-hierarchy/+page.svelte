@@ -61,6 +61,9 @@
 		to exaggerate the importance of well-executed hierarchy in creating typography that is inviting
 		and can easily be accessed and parsed by a reader.
 	</p>
-	<a class="link-routes" href="/typographic-conventions">Typographic Conventions >></a>
-	>
+
+	<div class="container-links-pages">
+        <a class="link-routes" href="/"> HOME </a>
+        <a class="link-routes" href="/typographic-conventions">Conventions ></a>
+    </div>
 </main>

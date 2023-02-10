@@ -50,5 +50,8 @@
 	typeface it's particular appearance at type size.
 </p>
 
-<a class="link-routes" href="/type-anatomy">Type Anatomy >></a>
+<div class="container-links-pages">
+	<a class="link-routes" href="/"> HOME </a>
+	<a class="link-routes" href="/type-anatomy">Anatomy ></a>
+</div>
 </main>

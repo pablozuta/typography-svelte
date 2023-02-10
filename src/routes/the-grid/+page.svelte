@@ -74,5 +74,9 @@
 		that will help you refine alignments and make distances consistent. And always remember that
 		there are plenty of instances where a grid may not be necessary or even appropriate at all.
 	</p>
-	<a class="link-routes" href="/creating-hierarchy">Creating Hierarchy >></a>
+	
+	<div class="container-links-pages">
+		<a class="link-routes" href="/"> HOME </a>
+		<a class="link-routes" href="/creating-hierarchy">Hierarchy ></a>
+	</div>
 </main>

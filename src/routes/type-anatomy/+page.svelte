@@ -6,6 +6,7 @@
 	two fundamental visual elements of a letter form are the stroke, the black part of the letter, and
 	the counter, the white part.
 </p>
+<img src="https://d3ui957tjb5bqd.cloudfront.net/uploads/images/5/50/50786.og.jpg?fmt=webp&1539714288" alt="typography anatomy poster">
 <p>
 	Because the counter is often bigger than the stroke some typographers argue that when we read type
 	at small scale we actually are recognizing the counters of the type rather then the strokes. Roman
@@ -18,10 +19,7 @@
 	is found in some letters are called the bowls. Many of the parts of letters are named after parts
 	of the human body. This is a leg. A shoulder.
 </p>
-<p>
-	This part of a g is an ear. The inside counter of a e is an eye. And the center part of an s or
-	other curved letter is a spine.
-</p>
+
 <p>
 	<strong
 		>All letter forms are constructed in relationship to a set of invisible lines or metrics that
@@ -35,6 +33,7 @@
 	extends below the baseline is called a descender. In many typefaces, uppercase letters are
 	actually slightly shorter than ascenders. So their height is defined by a cap-height metric.
 </p>
+<img src="https://socks-studio.com/img/blog/Pacioli_de_divina_proportione_letters_09.gif" alt="old book Letter G diagram">
 
 <p>
 	As you can see, curved parts of letters actually extend a little bit above and below the x-height
@@ -44,4 +43,7 @@
 	understand the different features of typefaces.
 </p>
 
-<a class="link-routes" href="/choosing-type">Choosing Type >></a>
+<div class="container-links-pages">
+	<a class="link-routes" href="/"> HOME </a>
+	<a class="link-routes" href="/choosing-type">Choosing ></a>
+</div>

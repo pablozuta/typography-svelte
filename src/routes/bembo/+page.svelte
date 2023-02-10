@@ -48,9 +48,11 @@
 	the Middle Ages.
 </p>
 
-<a class="link-routes" href="/didot">Didot >></a>
-<br>
-<br>
+
+<div class="container-links-pages">
+    <a class="link-routes" href="/"> HOME </a>
+    <a class="link-routes" href="/didot">Didot ></a>
+</div>
 
 <style>
 	@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400&display=swap');

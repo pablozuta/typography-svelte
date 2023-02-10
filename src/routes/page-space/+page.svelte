@@ -79,5 +79,8 @@
 		reads well and looks good. But it's this challenge that makes composing type really rewarding
 		and interesting.
 	</p>
-	<a class="link-routes" href="/the-grid">The Grid >></a>
+	<div class="container-links-pages">
+		<a class="link-routes" href="/"> HOME </a>
+		<a class="link-routes" href="/the-grid">The Grid ></a>
+	</div>
 </main>

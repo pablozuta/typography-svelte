@@ -81,5 +81,9 @@
 		organizational principles we discussed in the last few videos, they'll add a final degree of
 		professional polish to your typography.
 	</p>
-	<a class="link-routes" href="/typesetting-with-expression">Typesetting With Expression >></a>
+	
+	<div class="container-links-pages">
+		<a class="link-routes" href="/"> HOME </a>
+		<a class="link-routes" href="/typesetting-with-expression">Expression ></a>
+	</div>
 </main>

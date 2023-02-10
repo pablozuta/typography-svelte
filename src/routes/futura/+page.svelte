@@ -69,7 +69,10 @@
 	alt="bauhaus school building"
 />
 
-<a class="link-routes" href="/helvetica">Helvetica >></a>
+<div class="container-links-pages">
+	<a class="link-routes" href="/"> HOME </a>
+	<a class="link-routes" href="/helvetica">Helvetica ></a>
+</div>
 
 <style>
 	@import url('https://fonts.googleapis.com/css2?family=Didact+Gothic&display=swap');

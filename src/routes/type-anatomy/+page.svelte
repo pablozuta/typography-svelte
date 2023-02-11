@@ -45,5 +45,5 @@
 
 <div class="container-links-pages">
 	<a class="link-routes" href="/"> HOME </a>
-	<a class="link-routes" href="/choosing-type">Choosing ></a>
+	<a class="link-routes" href="/choosing-type">Next ></a>
 </div>

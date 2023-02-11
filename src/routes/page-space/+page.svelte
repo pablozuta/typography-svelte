@@ -81,6 +81,6 @@
 	</p>
 	<div class="container-links-pages">
 		<a class="link-routes" href="/"> HOME </a>
-		<a class="link-routes" href="/the-grid">The Grid ></a>
+		<a class="link-routes" href="/the-grid">Next ></a>
 	</div>
 </main>

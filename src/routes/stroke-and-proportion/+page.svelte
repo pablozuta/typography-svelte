@@ -52,6 +52,6 @@
 
 <div class="container-links-pages">
 	<a class="link-routes" href="/"> HOME </a>
-	<a class="link-routes" href="/type-anatomy">Anatomy ></a>
+	<a class="link-routes" href="/type-anatomy">Next ></a>
 </div>
 </main>

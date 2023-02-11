@@ -84,6 +84,6 @@
 	
 	<div class="container-links-pages">
 		<a class="link-routes" href="/"> HOME </a>
-		<a class="link-routes" href="/typesetting-with-expression">Expression ></a>
+		<a class="link-routes" href="/typesetting-with-expression">Next ></a>
 	</div>
 </main>

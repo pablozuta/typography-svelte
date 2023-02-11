@@ -77,6 +77,6 @@
 	
 	<div class="container-links-pages">
 		<a class="link-routes" href="/"> HOME </a>
-		<a class="link-routes" href="/creating-hierarchy">Hierarchy ></a>
+		<a class="link-routes" href="/creating-hierarchy">Next ></a>
 	</div>
 </main>

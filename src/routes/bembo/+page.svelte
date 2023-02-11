@@ -51,7 +51,7 @@
 
 <div class="container-links-pages">
     <a class="link-routes" href="/"> HOME </a>
-    <a class="link-routes" href="/didot">Didot ></a>
+    <a class="link-routes" href="/didot">Next ></a>
 </div>
 
 <style>

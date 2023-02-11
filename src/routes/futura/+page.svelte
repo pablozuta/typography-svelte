@@ -71,7 +71,7 @@
 
 <div class="container-links-pages">
 	<a class="link-routes" href="/"> HOME </a>
-	<a class="link-routes" href="/helvetica">Helvetica ></a>
+	<a class="link-routes" href="/helvetica">Next ></a>
 </div>
 
 <style>

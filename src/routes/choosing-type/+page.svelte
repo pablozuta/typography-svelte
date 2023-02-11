@@ -14,7 +14,7 @@
         The pragmatic issues we've looked at here are only some of the considerations involved in choosing a typeface. The rest has to do with the subjective feel of the typeface, as it's often shaped by its history, uses, and associations.</p>
        <div class="container-links-pages">
         <a class="link-routes" href="/"> HOME </a>
-        <a class="link-routes" href="/typeface-and-their-histories">Histories ></a>
+        <a class="link-routes" href="/typeface-and-their-histories">Next ></a>
     </div>
     
 </main>

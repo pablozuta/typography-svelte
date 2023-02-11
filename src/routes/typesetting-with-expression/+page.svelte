@@ -27,31 +27,18 @@
 		of the dialogue progressing from subdued to frenetic.
 	</p>
 	<img src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1675981392/Typography%20Svelte/20230207_153744_a53gio.jpg" alt="eugene ionesco typographic poster">
-	<p>
-		While expressive typography was sometimes at odds with the functionalist outlook of mid 20th
-		century graphic design, it made a comeback in the 1980s and 90s. This is a poster for a theater
-		company by the American designer Paula Sher. 
-	</p>
-	<img src="https://www.creativeboom.com/uploads/articles/00/0080645fa3f8a055235920cb71f1a058491a44fa_1620.jpg" alt="paula sher typographic poster">
-	 <p>
-		It might be appropriate for a poster or a book cover but it's probably not appropriate for a
-		science text book. There are infinite ways to shape the meaning of text through typographic
-		treatment. At the most basic level, we can manipulate meaning by using the variables of
-		typeface, size, style, color, and arrangement. The same variables we use to create hierarchy.
-	 </p>
 	
-	<p>
-		We can create a composition that suggests horizontal movement, like in this poster about canal
-		boats, conjuring up the slow movement of the boats along the water. Or a composition that feels
-		vertical, like in this poster for a conference in Shanghai, a city know for its skyscrapers.
-	</p>
+	
+	
 	<div class="grid-2">
 		<div class="card">
 			<img
-				src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1675981392/Typography%20Svelte/20230207_153806_jzoj7n.jpg"
-				class="artist__img"
-				alt="blue poster typographic"
+			src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1675981392/Typography%20Svelte/20230207_153806_jzoj7n.jpg"
+			class="artist__img"
+			alt="blue poster typographic"
 			/>
+			<p>We can create a composition that suggests horizontal movement, like in this poster about canal
+				boats, conjuring up the slow movement of the boats along the water.</p>
 		</div>
 	
 		<div class="card">
@@ -60,14 +47,14 @@
 				class="artist__img"
 				alt="skycraper typographic design"
 			/>
+			<p>
+				Or a composition that feels
+			   vertical, like in this poster for a conference in Shanghai, a city know for its skyscrapers.
+		   </p>
 		</div>
 	</div>
 	<!--fin grid-->
-	<p>
-		We can make a composition that's a vortex. Here in this poster from the 1920s the vortex gesture
-		expresses the dizzy feeling of being in the bustle of a modern city. Or a composition that is
-		random and scattered, perhaps suggesting chaos or something organic, like these flies.
-	</p>
+	
 	<div class="grid-2">
 		<div class="card">
 			<img
@@ -75,6 +62,8 @@
 				class="artist__img"
 				alt="vortex poster typographic"
 			/>
+			<p>Here in this poster from the 1920s the vortex gesture
+				expresses the dizzy feeling of being in the bustle of a modern city.</p>
 		</div>
 	
 		<div class="card">
@@ -83,6 +72,10 @@
 				class="artist__img"
 				alt="flies and letters typographic design"
 			/>
+			<p>
+				And this composition that is
+			  random and scattered, perhaps suggesting chaos or something organic, like these flies.
+		  </p>
 		</div>
 	</div>
 	<!--fin grid-->
@@ -102,7 +95,7 @@
 	
 	<div class="container-links-pages">
     <a class="link-routes" href="/"> HOME </a>
-   <a class="link-routes" href="/beyond-typesetting">Beyond Typesetting ></a>
+   <a class="link-routes" href="/beyond-typesetting">Next ></a>
 
 	
 </main>

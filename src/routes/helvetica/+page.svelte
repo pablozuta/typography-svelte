@@ -65,7 +65,7 @@
 	
 	<div class="container-links-pages">
 		<a class="link-routes" href="/"> HOME </a>
-		<a class="link-routes" href="/typographic-space">Space ></a>
+		<a class="link-routes" href="/typographic-space">Next ></a>
 	</div>
 </main>
 

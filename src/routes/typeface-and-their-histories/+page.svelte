@@ -36,7 +36,7 @@
 
     <div class="container-links-pages">
     <a class="link-routes" href="/"> HOME </a>
-   <a class="link-routes" href="/bembo">Bembo >></a>
+   <a class="link-routes" href="/bembo">Next ></a>
    
 </div>
 </main>

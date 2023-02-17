@@ -33,13 +33,16 @@
 	pushed their craft to try achieve this fine line aesthetic in letter press printing.
 </p>
 <div class="container-baskerville">
-<p class="baskerville">
-	One particularly innovative printer was an Englishman, John Baskerville. He developed innovations
-	in paper and ink making that allowed him to design and print typefaces with much more delicate
-	strokes. In 1757, he designed the typeface Baskerville. Baskerville is known as a transitional
-	serif. It's roughly half way along the evolution from old style to modern serif.
-</p>
-<img src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1675915113/Typography%20Svelte/baker_w1nmbs.png" alt="baskerville typography poster">
+	<p class="baskerville">
+		One particularly innovative printer was an Englishman, John Baskerville. He developed
+		innovations in paper and ink making that allowed him to design and print typefaces with much
+		more delicate strokes. In 1757, he designed the typeface Baskerville. Baskerville is known as a
+		transitional serif. It's roughly half way along the evolution from old style to modern serif.
+	</p>
+	<img
+		src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1675915113/Typography%20Svelte/baker_w1nmbs.png"
+		alt="baskerville typography poster"
+	/>
 </div>
 <p>
 	Transitional serifs have a vertical axis, more modulation than an old style serif, but still
@@ -58,8 +61,10 @@
 	European fashion publications in the 1950's, sixties, and seventies. And they're still really
 	closely associated with the world and with the aesthetics of fashion.
 </p>
-<img src="https://cdn.shopify.com/s/files/1/2096/4023/products/s-l1600_5_86b1656e-9168-4bcf-8499-af6f9533abda_1024x1024.jpg?v=1571720123" alt="madonna vogue magazine cover">
-
+<img
+	src="https://cdn.shopify.com/s/files/1/2096/4023/products/s-l1600_5_86b1656e-9168-4bcf-8499-af6f9533abda_1024x1024.jpg?v=1571720123"
+	alt="madonna vogue magazine cover"
+/>
 
 <div class="container-links-pages">
 	<a class="link-routes" href="/"> HOME </a>
@@ -67,21 +72,23 @@
 </div>
 
 <style>
-	@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400;0,6..96,500;0,6..96,700;1,6..96,400&display=swap');
+	@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
 
 	@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
 
 	p {
-		font-family: 'Bodoni Moda', serif;
-		font-size: 1.3rem;
+		font-family: 'Prata', serif;
+		font-size: 1.2rem;
+		line-height: 1.8rem;
+		
 	}
 
-	.baskerville{
+	.baskerville {
 		font-family: 'Libre Baskerville', serif;
 		font-size: 1.4rem;
 		color: rgb(110, 110, 110);
 	}
-	.container-baskerville{
+	.container-baskerville {
 		border-radius: 8px;
 		background-color: palegoldenrod;
 		padding-bottom: 2rem;
@@ -90,7 +97,7 @@
 	}
 
 	h3 {
-		font-family: 'Bodoni Moda', serif;
+		font-family: 'Prata', serif;
 		font-size: 2.3rem;
 	}
 </style>

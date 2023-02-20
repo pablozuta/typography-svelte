@@ -1,8 +1,8 @@
 <main>
     <h3 class="under">Stroke and Proportion </h3>
 <p>
-	What really define the character , the look and feel of a typeface on actually use is not it's
-	details but some overall qualities of stroke & proportion , and these qualities are what
+	What really define the character , the look and feel of a typeface on actually use is not it's 
+	details but some <em>overall qualities of stroke & proportion </em>, and these qualities are what
 	typographers pays most attention to when they're are looking at types. The forms of the
 	typographic alphabet emerged from scribes' handwriting in the 15th century. So the lines that form
 	letters are called strokes and are based on calligraphic marks.
@@ -38,17 +38,14 @@
 	extended type looks kind of airy.
 </p>
 <p>
-	Another important proportion is what might roughly be described as the size relationship between
-	lowercase and uppercase letters. And this is called the x-height of the typeface. The x-height is
+	Another important proportion is what might roughly be described as <strong> the size relationship between
+	lowercase and uppercase letters</strong>. And this is called the x-height of the typeface. The x-height is
 	the imaginary line that defines the height of many of the lowercase letters. Typefaces with a
 	large x-height with a proportionally larger lowercase letters, like this typeface, look bigger and
 	more even on the page. Typefaces with a small x-height with proportionally smaller lowercase
 	letters look smaller and more delicate.
 </p>
-<p>
-	Taken all together, these over all qualities of proportion and of stroke are what really give a
-	typeface it's particular appearance at type size.
-</p>
+
 
 <div class="container-links-pages">
 	<a class="link-routes" href="/"> HOME </a>

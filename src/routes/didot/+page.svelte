@@ -1,23 +1,27 @@
 <h3 class="under">DIDOT: ENLIGHTENED REFINEMENT</h3>
+<div class="grid-2">
+	<p class="j">
+		In this case study we're going to look at a typeface designed 300 years after Bembo, in the late
+		18th century, the late 1700s. It's a design that today is known as Didot.Typefaces like Didot are called Didones or modern serifs. They're seen as the last stage in a long
+		evolution of traditional Roman book typography. From humanist typefaces that closely imitated
+		handwriting, like Bembo, to rational typefaces that no longer showed any trace of the human hand.
+	</p>
+	<p class="j">Modern serif's have a perfectly vertical axes.Very thin, entirely unbracketed serifs. Serifs with
+		no curved connection to the stem. An strong modulated stroke that is really thin in some places,
+		and much thicker in others.	The evolution from humanist Renaissance type to these very stark and mechanical forms paralleled
+		and reflected the ideas of the European Age of Enlightenment. In 18th century philosophy,
+		politics, and literature, there was a new interest in empiricism, rationality, and scientific
+		rigor. And type designers were starting to reflect these values in their designs.
+		
+	</p>
+</div>
+
+
 <p>
-	In this case study we're going to look at a typeface designed 300 years after Bembo, in the late
-	18th century, the late 1700s. It's a design that today is known as Didot.
+	
 </p>
 <p>
-	Typefaces like Didot are called Didones or modern serifs. They're seen as the last stage in a long
-	evolution of traditional Roman book typography. From humanist typefaces that closely imitated
-	handwriting, like Bembo, to rational typefaces that no longer showed any trace of the human hand.
-</p>
-<p>
-	Modern serif's have a perfectly vertical axes.Very thin, entirely unbracketed serifs. Serifs with
-	no curved connection to the stem. An strong modulated stroke that is really thin in some places,
-	and much thicker in others.
-</p>
-<p>
-	The evolution from humanist Renaissance type to these very stark and mechanical forms paralleled
-	and reflected the ideas of the European Age of Enlightenment. In 18th century philosophy,
-	politics, and literature, there was a new interest in empiricism, rationality, and scientific
-	rigor. And type designers were starting to reflect these values in their designs.
+
 </p>
 <p>
 	The first true rationalist typeface was the the Romain du Roi, the King's Roman. It was
@@ -44,22 +48,26 @@
 		alt="baskerville typography poster"
 	/>
 </div>
+<div class="grid-2">
+	<p>
+		Transitional serifs have a vertical axis, more modulation than an old style serif, but still
+		bracketed serifs. 40 years later, these trends towards rationality and mechanicalness matured in
+		the work of Firmin Didot, a Parisian punch cutter. Today the most common digital version of
+		Didot's work is a reinterpretation by the 20th century French type designer Adrian Frutiger, and
+		this is the typeface we know today as Didot.
+	</p>
+	<p>
+		Didot is extremely similar to Bodoni, a typeface designed around the same time by Giambattista
+		Bodoni in italy. Bodoni and Didot were influenced by each other and both of them were influenced
+		by the work of John Baskerville.Because of their thin, elegant and minimal forms Didot and Bodoni were used a lot by American and
+		European fashion publications in the 1950's, sixties, and seventies. And they're still really
+		closely associated with the world and with the aesthetics of fashion.
+	</p>
+</div>
+
+
 <p>
-	Transitional serifs have a vertical axis, more modulation than an old style serif, but still
-	bracketed serifs. 40 years later, these trends towards rationality and mechanicalness matured in
-	the work of Firmin Didot, a Parisian punch cutter. Today the most common digital version of
-	Didot's work is a reinterpretation by the 20th century French type designer Adrian Frutiger, and
-	this is the typeface we know today as Didot.
-</p>
-<p>
-	Didot is extremely similar to Bodoni, a typeface designed around the same time by Giambattista
-	Bodoni in italy. Bodoni and Didot were influenced by each other and both of them were influenced
-	by the work of John Baskerville.
-</p>
-<p>
-	Because of their thin, elegant and minimal forms Didot and Bodoni were used a lot by American and
-	European fashion publications in the 1950's, sixties, and seventies. And they're still really
-	closely associated with the world and with the aesthetics of fashion.
+	
 </p>
 <img
 	src="https://cms-assets.tutsplus.com/cdn-cgi/image/width=850/uploads/users/2760/posts/40246/final_image/Vogue_magazine_final.jpg"

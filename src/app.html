@@ -27,6 +27,9 @@
 		font-family: 'Arapey', serif;
 		font-size: 1.5rem;
 	}
+	p{
+		margin-block: 0.9rem;
+	}
 
 	h1,
 	h3 {
@@ -50,6 +53,9 @@
 		height: 500px;
 		margin-bottom: 1rem;
 	}
+	.j{
+	 text-align: justify;
+	}
 
 
 	.under {
@@ -57,13 +63,25 @@
 	}
 
 	.grid-2 {
-		margin-top: 0.1rem;
 		display: grid;
 		grid-template-columns: repeat(auto-fit, minmax(21rem, 1fr));
-		padding: 2%;
-		gap: 1rem;
+		gap: 2.5rem;
 	}
-	.card > p{
+	.grid-3{
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+		gap: 1rem;
+		margin-bottom: -1rem;
+
+	}
+	.color-bauhaus-1{
+		background-color:#be1e2d ;
+	}
+	.color-bauhaus-2{
+		background-color:#ffde17 ;
+	}
+
+	.card>p {
 		margin-top: -1rem;
 		font-size: 1.2rem;
 		padding-inline: 0.5rem;
@@ -87,10 +105,19 @@
 		width: 100%;
 		object-fit: cover;
 	}
-	.container-links-pages{
+
+	.container-links-pages {
 		border-top: 2px solid gray;
 		padding-block: 1rem;
 		display: flex;
 		justify-content: space-between;
-		}
+	}
+	a{
+		text-decoration: none;
+		color: chocolate;
+	}
+	a:hover{
+		
+		color: coral;
+	}
 </style>

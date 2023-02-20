@@ -36,11 +36,9 @@
 <img src="https://socks-studio.com/img/blog/Pacioli_de_divina_proportione_letters_09.gif" alt="old book Letter G diagram">
 
 <p>
-	As you can see, curved parts of letters actually extend a little bit above and below the x-height
+	Curved parts of letters actually extend a little bit above and below the x-height
 	and base line. And this is because from a distance our eyes see circles as smaller than squares.
-	So curved elements are made larger to compensate. There is much more terminology for describing
-	letter forms. But this will give you enough of the vocabulary to begin to describe, and to
-	understand the different features of typefaces.
+	So curved elements are made larger to compensate. 
 </p>
 
 <div class="container-links-pages">

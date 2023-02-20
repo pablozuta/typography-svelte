@@ -12,7 +12,7 @@
 	militaries. And in 1914, all of this came to a catastrophic head in the outbreak of the 1st World
 	War.
 </p>
-<p>
+<p >
 	In the world of fine art, movements like cubism, expressionism and later futurism and
 	constructivism, responded to these changes by rejecting and deconstructing traditional modes of
 	representation. And reconfiguring the building blocks of color and form to try to express the
@@ -28,7 +28,7 @@
 	typography of its historical mannerisms and decorative elements, and to use the fundamental
 	properties of form, color and structure to effectively communicate.
 </p>
-<p>
+<p class="color-bauhaus-2">
 	In 1928, another influential German designer, Jan Tschichold, summarize the principles of
 	constructivist design as applied to typography in this book, The New Typography. Amongst other
 	things, Tschichold advocated for the use of sans-serif type rather than traditional serif type. He

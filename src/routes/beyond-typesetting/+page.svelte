@@ -51,13 +51,39 @@
 	</p>
 	<p>
 		But of course type has its origins in human handwriting. And many typographers have returned to
-		the hand as a way to infuse type with human expression. The Swiss designer Niklaus Troxler, for
-		instance, is well known for his posters for jazz music events, many of which used hand lettering
-		to capture the loose, improvisational character of the jazz music.
+		the hand as a way to infuse type with human expression.
 	</p>
+	<div class="grid-2">
+		<div class="card">
+			<img
+			src="https://1.api.artsmia.org/800/94284.jpg"
+			class="artist__img"
+			alt="Niklaus Troxler jazz poster"
+			/>
+			<br>
+			<br>
+			<p> The Swiss designer Niklaus Troxler, for
+				instance, is well known for his posters for jazz music events, many of which used hand lettering
+				to capture the loose, improvisational character of the jazz music.</p>
+		</div>
+	
+		<div class="card">
+			<img
+				src="https://miro.medium.com/max/1400/0*XTc3zT44q9vuJmJU.jpg"
+				class="artist__img"
+				alt="Hansje van Halem typographic design"
+			/>
+			<br>
+			<br>
+			<p>
+				In contrast to Troxler, the typographic work of the Dutch artist and designer Hansje van Halem
+		is painstakingly detailed and ornate, while still feeling organic.
+		   </p>
+		</div>
+	</div>
+	<!--fin grid-->
 	<p>
-		In contrast to Troxler, the typographic work of the Dutch artist and designer Hansje van Halem
-		is painstakingly detailed and ornate, while still feeling organic. And here at Cal Arts the
+		 And here at Cal Arts the
 		American artist and designer Ed Fella is known for his eccentric hand drawn interpretations of
 		American vernacular typography. Today we designers have so many tools at hand, digital and
 		analog, that we can make type out of just about anything. Paul Elliman, a British designer and
@@ -85,3 +111,18 @@
 		you to think beyond the conventions of classical typography.
 	</p>
 </main>
+<footer>
+	<center> <a class="home" href="/">HOME</a></center> 
+</footer>
+
+<style>
+	footer{
+		margin-bottom: 2rem;
+		background-color:#555;
+	}
+	.home{
+		font-size: 3rem;
+		text-decoration: none;
+		color: coral;
+	}
+</style>

@@ -11,12 +11,13 @@
         19th century to reference a handwriting style from the Renaissance. But in the 20th century, it
         became associated with Nazism. And after the war, it stopped being used for this reason.
     </p>
-    <img src="https://pbs.twimg.com/media/FD0vUB0WEAQLZIy?format=jpg&name=4096x4096" alt="fette fraktur typography">
+    <img src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1676855560/Typography%20Svelte/frette_2_qjjkct.jpg" alt="fette fraktur typography">
     <p>
         Or Helvetica, a typeface designed in the 1950's with the valid intention of being completely
         neutral, but which ironically has become a loaded signifier of American corporate culture and a
         flashpoint for debate amongst designers.
     </p>
+    <img src="https://i2.cdn.turner.com/cnnnext/dam/assets/140227183043-09-helvetica-target---restricted-horizontal-large-gallery.jpg" alt="target logo">
   
       
     <p>

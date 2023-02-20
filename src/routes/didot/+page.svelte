@@ -62,8 +62,8 @@
 	closely associated with the world and with the aesthetics of fashion.
 </p>
 <img
-	src="https://cdn.shopify.com/s/files/1/2096/4023/products/s-l1600_5_86b1656e-9168-4bcf-8499-af6f9533abda_1024x1024.jpg?v=1571720123"
-	alt="madonna vogue magazine cover"
+	src="https://cms-assets.tutsplus.com/cdn-cgi/image/width=850/uploads/users/2760/posts/40246/final_image/Vogue_magazine_final.jpg"
+	alt="vogue magazine cover"
 />
 
 <div class="container-links-pages">
@@ -86,11 +86,11 @@
 	.baskerville {
 		font-family: 'Libre Baskerville', serif;
 		font-size: 1.4rem;
-		color: rgb(110, 110, 110);
+		color: whitesmoke;
 	}
 	.container-baskerville {
 		border-radius: 8px;
-		background-color: palegoldenrod;
+		background-color: rgb(194, 101, 67);
 		padding-bottom: 2rem;
 		padding-inline: 1rem;
 		padding-top: 1rem;

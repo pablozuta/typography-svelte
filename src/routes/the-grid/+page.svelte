@@ -74,9 +74,22 @@
 		that will help you refine alignments and make distances consistent. And always remember that
 		there are plenty of instances where a grid may not be necessary or even appropriate at all.
 	</p>
+	<div class="dos-parrafos">
+		<div>
+		  <p class="dos-parrafos-texto">Every nook in the apartment is used, from the bedroom, where a Stanley Whitney canvas hangs beside the window, to the dining room, where works from various artists, including Tracey Emin and Nicolas Party, are grouped together according to the theme of sexuality. Together, the spaces are a guide to Van Hagen’s tastes that clients can explore in person. “A lot of my clients visit me at home,” says Van Hagen. “I never sell any of the works here, but I tend to support the artists that I also collect.”</p>
+		</div>
+		<div>
+		  <p class="dos-parrafos-texto">Van Hagen’s clients are scattered across the globe, many of them living in China, Taiwan, South Korea, and other parts of Asia – hence the importance of holding What’s Up shows in Seoul and Hong Kong. “Not everyone can visit me in London, so my shows in other countries allow potential clients to discover my tastes,” he says, “I tend to keep things more blue-chip for Hong Kong shows, but still with a mix of work across the whole spectrum, with prices from a couple of thousand dollars to 15 million. Many of my clients become friends. Whether they are in their 80s, 50s or 20s, I have a very personal relationship with all of them. It is easier that way; they know what I’m made of, and conversations are easier.</p>
+		</div>
+	  
+	  </div>
 	
 	<div class="container-links-pages">
 		<a class="link-routes" href="/"> HOME </a>
 		<a class="link-routes" href="/creating-hierarchy">Next ></a>
 	</div>
 </main>
+
+<style>
+	
+</style>

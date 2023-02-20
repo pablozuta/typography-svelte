@@ -73,7 +73,7 @@
 	@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;1,300&display=swap');
 	p {
 		font-family: 'Roboto', sans-serif;
-		font-size: 1.15rem;
+		font-size: 1.2rem;
 	}
 
 	h3 {

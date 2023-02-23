@@ -7,7 +7,7 @@
     <p>As I mentioned before serif typefaces are conventionally seen as easier to read and text than sans serifs because the serifs help visually define each baseline.</p>
     <p>But when considering legibility it's also important to keep things in perspective legibility is subjective and the fact is that type faces with familiar forms are easier to read and those with less familiar forms are harder work.</p>
     <p>If you're designing for the web, availability is even more of a complicated issue by default web browsers display type by calling up fonts from the users computer. And most users are only likely to have a handful of so called web safe fonts on their computer.
-    A work around for designers is to use type faces hosted externally, either by a free service like Google Fonts or from a subscription service like Typekit.</p>
+    A work around for designers is to use type faces hosted externally, either by a free service like <a href="https://fonts.google.com/" target="_blank" rel="noreferrer">Google Fonts</a>  or from a subscription service like Typekit.</p>
     <p>If your choosing more than one type face for a project, you'll want to choose type faces that go together well. And the trick to combining typefaces successfully is to balance contrast with consistency.</p>
     <p>Avoid using typefaces that are stylistically similar , remember that even though two type faces may look quite different at large size, those differences may become invisible in text.</p>
     <p>

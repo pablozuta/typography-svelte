@@ -18,7 +18,7 @@
 	/>
 
 	<p>
-		A font originally referred to one set of metal type. In a California job case, a standard filing
+		A font originally referred to one set of metal type. In a <a href="http://www.briarpress.org/typecase/about" target="_blank" rel="noreferrer">California job case</a>, a standard filing
 		system for metal typet hat has the letters and other typographic elements arranged according to
 		frequency of use, not unlike the way that the keys are arranged on a computer keyboard. Metal
 		type obviously can't be made bigger or smaller or italic or bold. So a font of metal type is

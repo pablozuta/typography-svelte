@@ -1,6 +1,6 @@
 <h3>BEMBO: HUMANIST LETTERS</h3>
 <p>
-	Before Johannes Gutenberg introduced movable type to Europe, books were handwritten by scribes,
+	Before <a href="https://www.britannica.com/biography/Johannes-Gutenberg" target="_blank" rel="noreferrer">Johannes Gutenberg</a>  introduced movable type to Europe, books were handwritten by scribes,
 	many of whom worked in monasteries. These books took a lot of skill and labor to produce. They
 	were rarefied, valuable objects, and marks of prestige for their owners. When Gutenberg developed
 	his system of movable type in 1439 and began printing and selling books, it made sense for him to
@@ -66,7 +66,5 @@
 		border-bottom: 2px solid #5555;
 	}
 
-	a{
-		color:black;
-	}
+	
 </style>

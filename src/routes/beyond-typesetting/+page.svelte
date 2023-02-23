@@ -1,63 +1,59 @@
 <main>
 	<h3 class="under">Beyond Typesetting</h3>
 	<div class="grid-2">
-	<p class="j">
-		We can also go beyond conventional typesetting altogether and approach type not as text to be
-		typeset but as <em>formal material to be composed, manipulated or rendered in any number of ways.</em> 
-		Sometimes, breaking a rule of typesetting in a controlled way can be poetic. In this book cover,
-		for instance, the designers have created uneven spaces in the title, arranging the words in a
-		way that draws attention to the symmetry between a man and a woman.
-	</p>
-	<p class="j">
-		In this cover for a book on architecture, the title is broken up with stretched dashes, turning
-		it into a shape reminiscent of an architectural structure.
-		And in this cover, for a book on the British sculptor Antony Gormley, the letters of the title
-		are stacked vertically, referencing the formal characteristics of Gormley's vertical steel
-		sculptures.
-	</p>
-   </div>
+		<p class="j">
+			We can also go beyond conventional typesetting altogether and approach type not as text to be
+			typeset but as <em
+				>formal material to be composed, manipulated or rendered in any number of ways.</em
+			>
+			Sometimes, breaking a rule of typesetting in a controlled way can be poetic. In this book cover,
+			for instance, the designers have created uneven spaces in the title, arranging the words in a way
+			that draws attention to the symmetry between a man and a woman.
+		</p>
+		<p class="j">
+			In this cover for a book on architecture, the title is broken up with stretched dashes,
+			turning it into a shape reminiscent of an architectural structure. And in this cover, for a
+			book on the British sculptor Antony Gormley, the letters of the title are stacked vertically,
+			referencing the formal characteristics of Gormley's vertical steel sculptures.
+		</p>
+	</div>
+	<h4>Breaking the Rules</h4>
+
 	<div class="grid-3">
 		<p class="j">
 			Beyond breaking rules like this, designers can also manipulate the forms of the letters
-			themselves.Armin Hofmann often manipulated or arranged type to create compelling abstract forms in his
-			posters. 
+			themselves.Armin Hofmann often manipulated or arranged type to create compelling abstract
+			forms in his posters.
 		</p>
 		<p class="j">
-			In the 1960s designers like the Spanish American Victor Moscoso used really abstracted
-			type in their event posters, demanding that readers spend time actively decoding their messages.
-			
+			In the 1960s designers like the Spanish American Victor Moscoso used really abstracted type in
+			their event posters, demanding that readers spend time actively decoding their messages.
 		</p>
-		<p class="j">And this visual strategy mirrored the dense and opaque style of the psychedelic music that these
-			posters were advertising. These days we can directly manipulate the vector lines of type in design software.</p>
+		<p class="j">
+			And this visual strategy mirrored the dense and opaque style of the psychedelic music that
+			these posters were advertising. These days we can directly manipulate the vector lines of type
+			in design software.
+		</p>
 	</div>
 	<div class="grid-2">
 		<div class="card">
 			<img
-			src="https://image.jimcdn.com/app/cms/image/transf/dimension=450x1024:format=jpg/path/s0266d2a2bfcd7b8c/image/i5ba4a56ce6fb7afb/version/1640443080/merca-arte-venta-de-obras-de-arte.jpg"
-			class="artist__img"
-			alt="Victor moscoso 1"
+				src="https://image.jimcdn.com/app/cms/image/transf/dimension=450x1024:format=jpg/path/s0266d2a2bfcd7b8c/image/i5ba4a56ce6fb7afb/version/1640443080/merca-arte-venta-de-obras-de-arte.jpg"
+				class="artist__img"
+				alt="Victor moscoso 1"
 			/>
-			
 		</div>
-	
+
 		<div class="card">
 			<img
 				src="https://catalogue.swanngalleries.com/full//643/747643.jpg"
 				class="artist__img"
 				alt="Victor Moscoso 2"
 			/>
-		
 		</div>
 	</div>
 	<!--fin grid-->
-	<p>
-	
-	
-	
-		These posters by the Norwegian American design studio Non-Format used type that has been
-		manipulated to create a sense of energy and flux.
-	</p>
-	<img src="http://non-format.com/uploads/images/Music/African_Prayers/african-prayers-01.jpg" alt="non-format poster">
+	<h4>Technology and Modern Tools</h4>
 	<p>
 		The technology of reproduction can also inspire typographic experimentation. In the 1990s, the
 		American art director David Carson created the distinctive typographic style for Ray Gun
@@ -80,56 +76,56 @@
 	<div class="grid-2">
 		<div class="card">
 			<img
-			src="https://1.api.artsmia.org/800/94284.jpg"
-			class="artist__img"
-			alt="Niklaus Troxler jazz poster"
+				src="https://1.api.artsmia.org/800/94284.jpg"
+				class="artist__img"
+				alt="Niklaus Troxler jazz poster"
 			/>
-			<br>
-			<br>
-			<p> The Swiss designer Niklaus Troxler, for
-				instance, is well known for his posters for jazz music events, many of which used hand lettering
-				to capture the loose, improvisational character of the jazz music.</p>
+			<br />
+			<br />
+			<p>
+				The Swiss designer Niklaus Troxler, for instance, is well known for his posters for jazz
+				music events, many of which used hand lettering to capture the loose, improvisational
+				character of the jazz music.
+			</p>
 		</div>
-	
+
 		<div class="card">
 			<img
 				src="https://miro.medium.com/max/1400/0*XTc3zT44q9vuJmJU.jpg"
 				class="artist__img"
 				alt="Hansje van Halem typographic design"
 			/>
-			<br>
-			<br>
+			<br />
+			<br />
 			<p>
-				In contrast to Troxler, the typographic work of the Dutch artist and designer Hansje van Halem
-		is painstakingly detailed and ornate, while still feeling organic.
-		   </p>
+				In contrast to Troxler, the typographic work of the Dutch artist and designer Hansje van
+				Halem is painstakingly detailed and ornate, while still feeling organic.
+			</p>
 		</div>
 	</div>
 	<!--fin grid-->
 	<p>
-		 The
-		American artist and designer <a href="https://en.wikipedia.org/wiki/Edward_Fella">Ed Fella</a>  is known for his eccentric hand drawn interpretations of
-		American vernacular typography. Today we designers have so many tools at hand, digital and
-		analog, that we can make type out of just about anything. Paul Elliman, a British designer and
-		artists makes typefaces out of found objects.
+		The American artist and designer <a href="https://en.wikipedia.org/wiki/Edward_Fella"
+			>Ed Fella</a
+		> is known for his eccentric hand drawn interpretations of American vernacular typography. Today
+		we designers have so many tools at hand, digital and analog, that we can make type out of just about
+		anything. Paul Elliman, a British designer and artists makes typefaces out of found objects.
 	</p>
 	<div class="grid-2">
 		<div class="card">
 			<img
-			src="https://typography.network/wp-content/uploads/2022/02/Fella_2001.jpg"
-			class="artist__img"
-			alt="ed fella 1"
+				src="https://typography.network/wp-content/uploads/2022/02/Fella_2001.jpg"
+				class="artist__img"
+				alt="ed fella 1"
 			/>
-			
 		</div>
-	
+
 		<div class="card">
 			<img
 				src="https://farm8.staticflickr.com/7527/15111999983_f7b334e162_o.jpg"
 				class="artist__img"
 				alt="ed fella 2"
 			/>
-		
 		</div>
 	</div>
 	<!--fin grid-->
@@ -156,15 +152,15 @@
 	</p>
 </main>
 <footer>
-	<center> <a class="home" href="/">HOME</a></center> 
+	<center> <a class="home" href="/">HOME</a></center>
 </footer>
 
 <style>
-	footer{
+	footer {
 		margin-bottom: 2rem;
-		background-color:#555;
+		background-color: #555;
 	}
-	.home{
+	.home {
 		font-size: 3rem;
 		text-decoration: none;
 		color: coral;

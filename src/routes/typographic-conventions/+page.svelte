@@ -48,6 +48,8 @@
 		pairs. In design, there's an option to turn on smart quotes, which automatically puts the
 		correct marks around quotations.
 	</p>
+	<h4>Numbers and Figures</h4>
+
 	<p>
 		Most contemporary text typefaces have four different kinds of numbers or figures. The figures
 		were used to seeing our lining figures. Like uppercase letters, lining figures start at the
@@ -64,6 +66,7 @@
 		space as the next. Tabular figures are useful in charts and mathematical equations where you
 		need the figures to line up vertically.
 	</p>
+	<h4>Capital Letters</h4>
 	<p>
 		Just as figures come in a version for text and a version for titling so to do capital letters.
 		Capital letters meant for setting in text are called small caps. They have the shape of normal

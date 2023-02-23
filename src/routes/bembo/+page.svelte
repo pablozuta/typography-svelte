@@ -9,7 +9,7 @@
 <img src="https://www.worldatlas.com/r/w2560-q80/upload/08/fc/b5/manuscript-from-italy.jpg" alt="manuscript from italy middle ages">
 <p>
 	So his early typefaces imitated the handwriting style of scribes in northern Europe. This style
-	was called the black-letter and it remained popular in parts of Europe into the 20th century.
+	was called the <a href="https://en.wikipedia.org/wiki/Blackletter" target="_blank" rel="noreferrer" >Black-letter</a> and it remained popular in parts of Europe into the 20th century.
 </p>
 
 <p>
@@ -28,6 +28,7 @@
 	1495, Manutius commissioned a prominent punch cutter, Francesco Griffo, to create a type face for
 	his press, and the result was what we now call Bembo.
 </p>
+<h4>The Modern Era</h4>
 <p>
 	Digital versions of bembo actually originate from a redrawing of Manutius' design by the American
 	type designer, Stanley Morrison in the early 1920s. The name is taken from a book of poetry by
@@ -37,6 +38,7 @@
 	italics.
 </p>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/dde82b18621623.562cc86d8a7b4.jpg" alt="magazine open bembo typography">
+<h4>Italics</h4>
 <p>
 	Italics were based on another, less formal style of southern European script. If you carefully
 	compare an italic typeface to a Roman typeface, you'll see that there's a lot more difference than
@@ -59,7 +61,7 @@
 
 	p {
 		font-family: 'EB Garamond', serif;
-		font-size: 1.3rem;
+		font-size: 1.4rem;
 	}
 	h3 {
 		font-family: 'EB Garamond', serif;

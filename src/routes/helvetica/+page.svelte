@@ -19,6 +19,7 @@
 		src="https://i0.wp.com/christaheinzer.ch/wp-content/uploads/2018/06/mengensatz3.jpg?resize=1024%2C734&ssl=1"
 		alt="neue grafik magazine"
 	/>
+	<h4>Sans Serifs</h4>
 	<p>
 		The sans serif typeface favored by the Swiss school designers. The one that got closest to the
 		clean look that they were after was Akzidenz-Grotesk, a German typeface from the 1890s. Sans

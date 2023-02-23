@@ -28,7 +28,8 @@
 	typography of its historical mannerisms and decorative elements, and to use the fundamental
 	properties of form, color and structure to effectively communicate.
 </p>
-<p class="color-bauhaus-2">
+<h4>A New Typography</h4>
+<p >
 	In 1928, another influential German designer, Jan Tschichold, summarize the principles of
 	constructivist design as applied to typography in this book, The New Typography. Amongst other
 	things, Tschichold advocated for the use of sans-serif type rather than traditional serif type. He
@@ -52,6 +53,7 @@
 	src="https://www.extensis.com/hs-fs/hubfs/D_Extensis-Futura-Blog-img-06.jpg?width=2034&name=D_Extensis-Futura-Blog-img-06.jpg"
 	alt="futura anatomy poster"
 />
+<h4>Minimalism</h4>
 <p>
 	Typefaces like Futura that use minimal geometric forms are called geometric san-serifs. These
 	typefaces generally have an apparently circular O, an almost entirely unmodulated stroke, and

@@ -41,7 +41,7 @@
 		different combinations of letters. So a font is the physical manifestation of type, whether in
 		metal, film or code.
 	</p>
-
+    <h4>What is a Typeface?</h4>
 	<p>
 		In contrast to a font, typeface describes the <strong
 			>visual design of a particular set of letter forms.</strong

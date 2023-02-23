@@ -31,6 +31,7 @@
 	the type sits on, and that guides our eyes along each line of text. And for this reason, serif
 	type faces are conventionally seen as more appropriate for long bodies of text.
 </p>
+<h4>Proportions</h4>
 <p>
 	Besides qualities of stroke, the overall appearance of a typeface is also determined by its
 	proportions. Some typefaces have narrow and tall condensed letter forms, while others have squat

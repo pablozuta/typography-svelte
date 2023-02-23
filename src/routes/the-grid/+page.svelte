@@ -32,6 +32,7 @@
 		In the mid twentieth century designers of the Neue Grafik movement in Switzerland refined the
 		use of grids to create highly organized visual structures.
 	</p>
+	<h4>Use of The Grid</h4>
 	<p>
 		Defining and using a grid can help you create compositions that feel visually refined. Grids are
 		particularly useful in publications where they can help each spread feel like it belongs to the

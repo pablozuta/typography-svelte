@@ -29,14 +29,7 @@
         in typographic connotation takes time and experience, but the best place to start is by looking
         at the history of type.
     </p>
-    <p>
-        Type has been around since the 1450's, and has a much longer history than we can cover here.
-    </p>
-    <p>
-        So in this unit, we're going to focus on six short case studies of influential typefaces.
-        Through these case studies, you'll get a rough outline of the history of type and a sense of how
-        typefaces have been shaped by, and have become expressive of, different cultural ideas.
-    </p>
+    
 
     <div class="container-links-pages">
     <a class="link-routes" href="/"> HOME </a>

@@ -49,10 +49,11 @@
 	/>
 </div>
 <div class="grid-2">
+	
 	<p>
 		Transitional serifs have a vertical axis, more modulation than an old style serif, but still
 		bracketed serifs. 40 years later, these trends towards rationality and mechanicalness matured in
-		the work of Firmin Didot, a Parisian punch cutter. Today the most common digital version of
+		the work of <a href="https://www.typeroom.eu/firmin-didot-10-things-to-know-about" target="_blank" rel="noreferrer">Firmin Didot</a> , a Parisian punch cutter. Today the most common digital version of
 		Didot's work is a reinterpretation by the 20th century French type designer Adrian Frutiger, and
 		this is the typeface we know today as Didot.
 	</p>

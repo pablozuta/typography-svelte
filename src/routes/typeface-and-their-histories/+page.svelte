@@ -4,13 +4,14 @@
         Typeface's suitability for a particular use is determined not only by its functional
         characteristics, but also by its connotative meaning.
     </p> 
+    
     <p>
         No typeface is a neutral transmitter of content. <strong>All typefaces carry associations, whether
             explicit or implicit.</strong>  Typefaces tells stories, and those stories are often complex and
         multi-layered.</p>
         <p>
         
-        Take for example the typeface, Fette Fraktur. It was designed by a German in the
+        Take for example the typeface, <a href="https://medium.com/fgd1-the-archive/fette-fraktur-typeface-1850-6caf8b0b097e" target="_blank" rel="noreferrer">Fette Fraktur</a> . It was designed by a German in the
         19th century to reference a handwriting style from the Renaissance. But in the 20th century, it
         became associated with Nazism. And after the war, it stopped being used for this reason.
     </p>

@@ -24,8 +24,10 @@
 		type obviously can't be made bigger or smaller or italic or bold. So a font of metal type is
 		just one type design in one style, in one weight at one size.
 	</p>
+	
+	
 	<p>
-		Movable type like this was first invented in China around 1040 by an inventor named Bi Sheng. It
+		Movable type like this was first invented in China around 1040 by an inventor named <a href="https://www.britannica.com/biography/Pi-Sheng" target="_blank" rel="noreferrer">Bi Sheng</a>. It
 		was reinvented 400 years later in Germany in the 15th century by Johannes Gutenberg. Gutenberg
 		carved his letter forms at actual scale and then cast them in a mixture of metals, mostly lead.
 	</p>

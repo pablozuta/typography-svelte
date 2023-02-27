@@ -12,7 +12,7 @@
 		using typography expressively.
 	</p>
 	<p>
-		In 1916 for instance, the French surrealist poet published this concrete poem. The poem is about
+		In 1916 for instance, the French surrealist poet <a href="https://www.britannica.com/biography/Guillaume-Apollinaire" target="_blank" rel="noreferrer">Guillaume Apollinaire</a>  published this concrete poem. The poem is about
 		rain and its typographic form expresses this as much as its content does.</p>
 		<img src="https://bonjourparis.com/wp-content/uploads/2020/06/IlPleut.png" alt="il pleut poem">
 		<p>
@@ -23,7 +23,7 @@
 
 		<p>
 		 And in this book, a mid century typographic
-		interpretation of a play by Eugene Ionesco, typographic compositions express the tone and pace
+		interpretation of a play by <a href="https://www.britannica.com/biography/Eugene-Ionesco" target="_blank" rel="noreferrer">Eugene Ionesco</a> , typographic compositions express the tone and pace
 		of the dialogue progressing from subdued to frenetic.
 	</p>
 	<img src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1675981392/Typography%20Svelte/20230207_153744_a53gio.jpg" alt="eugene ionesco typographic poster">

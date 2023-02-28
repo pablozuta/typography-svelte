@@ -1,10 +1,6 @@
 <main>
 	<h3 class="under">Typographic Conventions</h3>
-	<p>
-		Now that we've looked at the visual principles that govern type setting and typographic
-		composition, we're going to switch our attention to the conventions, the rules of proper type
-		setting.
-	</p>
+	
 	<p>
 		Like the spatial and organizational principles we're looked at so far, these conventions
 		straddle aesthetics and syntax. They're part form, part grammar. We'll start by looking at line

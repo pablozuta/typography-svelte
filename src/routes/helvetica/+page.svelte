@@ -2,7 +2,7 @@
 	<h3>HELVETICA: INTERNATIONAL MODERN</h3>
 	<p>
 		After the Second World War in the 1950s, European graphic designers, especially Swiss designers,
-		associated with the Basel School of Design, continued to build on the ideas of early modernist
+		associated with the <a href="https://thebaselschoolofdesign.ch/" target="_blank" rel="noreferrer">Basel School of Design</a> , continued to build on the ideas of early modernist
 		designers like Moholy-Nagy and Chicolt.
 	</p>
 	<p>
@@ -49,7 +49,7 @@
 	</p>
 	<p>
 		Because of it's close connection to the Swiss style of modernist graphic design, Helvetica is
-		also a rather divisive typeface. In 2007, the documentary film maker Gary Hustwit set out to
+		also a rather divisive typeface. In 2007, the documentary film maker <a href="https://www.hustwit.com/" target="_blank" rel="noreferrer">Gary Hustwit</a>  set out to
 		make a film about Helvetica, and found himself at the center of a debate amongst designers. On
 		the one hand, Helvetica has been embraced by modernist designers as the most perfect expression
 		of the kind of neutral, objective design that they advocate. And on the other hand, it has been

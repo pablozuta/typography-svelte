@@ -16,6 +16,10 @@
 			book on the British sculptor Antony Gormley, the letters of the title are stacked vertically,
 			referencing the formal characteristics of Gormley's vertical steel sculptures.
 		</p>
+		<img src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1678376785/Typography%20Svelte/Screenshot_20230227-052809_Coursera_b7nkrn.jpg" alt="red book cover">
+		<img src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1678376785/Typography%20Svelte/Screenshot_20230227-052826_Coursera_u4y4wa.jpg" alt="architecture book cover">
+		<img src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1678376785/Typography%20Svelte/Screenshot_20230227-052835_Coursera_acl6sc.jpg" alt="sculpture book cover letters">
+		<img src="https://res.cloudinary.com/ddkgbgwvp/image/upload/v1678376785/Typography%20Svelte/Screenshot_20230227-052752_Coursera_lyeq6a.jpg" alt="blue jazz poster with letters">
 	</div>
 	<h4>Breaking the Rules</h4>
 

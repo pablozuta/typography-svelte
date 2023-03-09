@@ -21,7 +21,7 @@
 		and easily.
 	</p>
 
-	<div class="menu">
+	<nav class="menu">
         <h2>MENU OF TOPICS</h2>
 		<ul class="links-container">
 			<li><a class="link-principal" href="/what-is-type">WHAT IS TYPE?</a></li>
@@ -45,7 +45,7 @@
 			<li><a class="link-principal" href="/beyond-typesetting">BEYOND TYPESETTING</a></li>
 		</ul>
         
-	</div>
+	</nav>
 </main>
 
 <style>

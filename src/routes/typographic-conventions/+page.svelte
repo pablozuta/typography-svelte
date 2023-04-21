@@ -1,6 +1,6 @@
 <main>
 	<h3 class="under">Typographic Conventions</h3>
-	
+
 	<p>
 		Like the spatial and organizational principles we're looked at so far, these conventions
 		straddle aesthetics and syntax. They're part form, part grammar. We'll start by looking at line
@@ -80,7 +80,7 @@
 		organizational principles we discussed in the last few videos, they'll add a final degree of
 		professional polish to your typography.
 	</p>
-	
+
 	<div class="container-links-pages">
 		<a class="link-routes" href="/"> HOME </a>
 		<a class="link-routes" href="/typesetting-with-expression">Next ></a>

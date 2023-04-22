@@ -15,6 +15,7 @@
 			alt="typography hierarchy"
 		/>
 	</div>
+	<br>
 
 	<div class="container-links-pages">
 		<a class="link-routes" href="/"> HOME </a>

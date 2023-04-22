@@ -81,12 +81,12 @@
 </div>
 
 <style>
-	@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+	@import url('https://fonts.googleapis.com/css2?family=Spectral:wght@400&display=swap');
 
 	@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
 
 	p {
-		font-family: 'Prata', serif;
+		font-family: 'Spectral', serif;
 		font-size: 1.2rem;
 		line-height: 1.8rem;
 		

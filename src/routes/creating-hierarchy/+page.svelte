@@ -7,9 +7,7 @@
 			reflecting the relative importance of different content with styling.
 		</p>
 		<p class="baskerville">
-			The key to effective typographic hierarchy is <em
-				>to make each type style look clearly distinct from the last</em
-			> even when working within a limited palette of typefaces and we can do this by deploying the stylistic
+			The key to effective typographic hierarchy is <span class="span-text">to make each type style look clearly distinct from the last</span> even when working within a limited palette of typefaces and we can do this by deploying the stylistic
 			variables of typeface, style, size, weight, color and setting.
 		</p>
 		<img
@@ -25,6 +23,9 @@
 </main>
 
 <style>
+	.span-text{
+		color: #555;
+	}
 	.baskerville {
 		font-family: 'Libre Baskerville', serif;
 		font-size: 1.4rem;

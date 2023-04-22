@@ -23,7 +23,7 @@
 		through the website and ensure that they can find the information they are looking for quickly
 		and easily.
 	</p>
-	<a class="link-principal" href="/what-is-type">START</a>
+	<center><a class="link-principal" href="/what-is-type">START</a></center> 
 </main>
 
 <style>
@@ -48,5 +48,11 @@
 		text-decoration: none;
 		display: inline-block;
 		font-size: 1.3rem;
+		cursor: pointer;
+		
+
+	}
+	.link-principal:hover{
+		transform: scale(1.1);
 	}
 </style>

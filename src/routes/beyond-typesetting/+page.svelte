@@ -156,17 +156,25 @@
 	</p>
 </main>
 <footer>
-	<center> <a class="home" href="/">HOME</a></center>
+	<center> <a class="link-principal" href="/">HOME</a></center>
 </footer>
 
 <style>
-	footer {
-		margin-bottom: 2rem;
-		background-color: #555;
-	}
-	.home {
-		font-size: 3rem;
+	
+	.link-principal {
+		background-color: #e7b75f; /* Green */
+		border: none;
+		color: rgb(28, 28, 28);
 		text-decoration: none;
-		color: coral;
+		padding: 15px 32px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+		font-size: 1.3rem;
+		cursor: pointer;
+	}
+
+	.link-principal:hover{
+		transform: scale(1.1);
 	}
 </style>

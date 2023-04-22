@@ -67,5 +67,6 @@
 <style>
 	main {
 		background-color: bisque;
+		padding: 0.5rem;
 	}
 </style>
